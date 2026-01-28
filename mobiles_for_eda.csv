@@ -1,0 +1,985 @@
+,brand,ram_gb,storage_gb,expandable_storage,battery_type,battery_mah,rear_camera_mp,front_camera_mp,rear_camera_count,rating,reviews,price,display_inch,processor_family,warranty_months
+0,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+1,Realme,4 GB RAM,64 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,10999,6.52,Snapdragon,
+2,Realme,4 GB RAM,128 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,11999,6.52,Snapdragon,
+3,Realme,4 GB RAM,128 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,11999,6.52,Snapdragon,
+4,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+5,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+6,Realme,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6999,6.1,Mediatek,
+7,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+8,Realme,4 GB RAM,64 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,10999,6.52,Snapdragon,
+9,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+10,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+11,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+12,Tecno,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,6000.0,23,16.0,3,4.3,2358.0,9999,7.0,Mediatek,
+13,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,14,5.0,2,4.5,5641.0,8999,6.52,Mediatek,12.0
+14,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,14,5.0,2,4.5,8877.0,9999,6.52,Mediatek,12.0
+15,Realme,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6999,6.1,Mediatek,
+16,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,4318.0,15999,6.5,Mediatek,
+17,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,17578.0,18499,6.67,Snapdragon,12.0
+18,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,5000.0,17,8.0,3,4.5,2263.0,9499,6.6,Mediatek,12.0
+19,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,5000.0,17,8.0,3,4.5,2263.0,9499,6.6,Mediatek,12.0
+20,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,60,16.0,4,4.5,532.0,14999,6.5,Mediatek,12.0
+21,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,60,16.0,4,4.5,1953.0,12999,6.5,Mediatek,12.0
+22,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,60,16.0,4,4.5,1953.0,12999,6.5,Mediatek,12.0
+23,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,60,16.0,4,4.5,532.0,14999,6.5,Mediatek,12.0
+24,OPPO,4 GB RAM,128 GB ROM,,standard battery,5000.0,60,16.0,4,4.3,4140.0,12990,6.5,Other,12.0
+25,Motorola,6 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium polymer battery,5000.0,79,16.0,4,4.4,2584.0,17499,6.5,Snapdragon,12.0
+26,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,16,5.0,3,4.5,3204.0,8999,6.52,Mediatek,12.0
+27,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,16,5.0,3,4.5,2170.0,9999,6.52,Mediatek,12.0
+28,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,16,5.0,3,4.5,2170.0,9999,6.52,Mediatek,12.0
+29,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,16,5.0,3,4.5,3204.0,8999,6.52,Mediatek,12.0
+30,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,6000.0,13,8.0,1,4.4,1667.0,7999,6.82,Mediatek,12.0
+31,POCO,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,421.0,13999,6.67,Snapdragon,12.0
+32,POCO,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,1721.0,14999,6.67,Snapdragon,12.0
+33,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,588.0,9990,6.2,Mediatek,12.0
+34,POCO,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,421.0,13999,6.67,Snapdragon,12.0
+35,Vivo,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,4030.0,13,5.0,1,4.3,1698.0,7880,6.22,Mediatek,12.0
+36,Vivo,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,23,8.0,3,4.4,1210.0,10990,6.35,Mediatek,12.0
+37,Vivo,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,23,8.0,3,4.4,1210.0,10990,6.35,Mediatek,12.0
+38,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,23,16.0,3,4.4,1714.0,12990,6.35,Mediatek,12.0
+39,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,23,16.0,3,4.4,1714.0,12990,6.35,Mediatek,12.0
+40,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,2740.0,17999,6.5,Mediatek,
+41,Vivo,3 GB RAM,32 GB ROM,,standard battery,5000.0,15,8.0,2,4.4,405.0,9890,6.35,Other,12.0
+42,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,7223.0,16999,6.3,Snapdragon,
+43,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,9978.0,14999,6.3,Snapdragon,
+44,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,5000.0,52,8.0,3,4.5,1760.0,10499,6.6,Mediatek,12.0
+45,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,17499,6.53,Mediatek,12.0
+46,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,6000.0,13,8.0,1,4.4,1667.0,7999,6.82,Mediatek,12.0
+47,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,5000.0,52,8.0,3,4.5,1760.0,10499,6.6,Mediatek,12.0
+48,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,7223.0,16999,6.3,Snapdragon,
+49,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,9978.0,14999,6.3,Snapdragon,
+50,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,7223.0,16999,6.3,Snapdragon,
+51,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,9978.0,14999,6.3,Snapdragon,
+52,OPPO,6 GB RAM,256 GB ROM,,standard battery,4000.0,60,16.0,4,4.5,210.0,17990,6.5,Mediatek,12.0
+53,OPPO,6 GB RAM,256 GB ROM,,standard battery,4000.0,60,16.0,4,4.5,210.0,17990,6.5,Mediatek,12.0
+54,Vivo,6 GB RAM,64 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,16078.0,16990,6.38,Snapdragon,
+55,Vivo,6 GB RAM,64 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,16078.0,16990,6.38,Snapdragon,
+56,Vivo,8 GB RAM,128 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,2295.0,18990,6.38,Snapdragon,
+57,Vivo,3 GB RAM,32 GB ROM,,standard battery,5000.0,15,8.0,2,4.4,405.0,9890,6.35,Other,12.0
+58,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,1721.0,16999,6.67,Snapdragon,12.0
+59,Realme,6 GB RAM,128 GB ROM,,standard battery,4200.0,86,16.0,4,4.4,101.0,24999,6.57,Snapdragon,
+60,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,6000.0,13,8.0,1,4.4,1667.0,7999,6.82,Mediatek,12.0
+61,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,1721.0,16999,6.67,Snapdragon,12.0
+62,Vivo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,23,8.0,3,4.4,2599.0,10990,6.35,Snapdragon,
+63,Realme,8 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,4405.0,20999,6.4,Snapdragon,
+64,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,588.0,9990,6.2,Mediatek,12.0
+65,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,588.0,9990,6.2,Mediatek,12.0
+66,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,16,8.0,3,4.3,840.0,12490,6.5,Mediatek,12.0
+67,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,16,8.0,3,4.3,840.0,12490,6.5,Mediatek,12.0
+68,Redmi,3 GB RAM,64 GB ROM,,standard battery,5000.0,15,8.0,2,4.2,170.0,9899,6.22,Snapdragon,12.0
+69,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,310.0,8345,6.22,Snapdragon,12.0
+70,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.3,19.0,16990,6.4,Mediatek,12.0
+71,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.3,19.0,16990,6.4,Mediatek,12.0
+72,Vivo,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,4030.0,13,5.0,1,4.3,1698.0,7880,6.22,Mediatek,12.0
+73,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,25,16.0,4,4.4,237.0,17990,6.53,Snapdragon,12.0
+74,Realme,8 GB RAM,256 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,4405.0,22999,6.4,Snapdragon,
+75,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,25,8.0,4,4.3,89.0,14990,6.47,Mediatek,12.0
+76,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,25,8.0,4,4.3,89.0,14990,6.47,Mediatek,12.0
+77,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,5.0,2,4.3,994.0,9990,6.22,Mediatek,12.0
+78,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,5.0,2,4.3,77.0,11490,6.22,Mediatek,12.0
+79,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+80,Realme,4 GB RAM,64 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,10999,6.52,Snapdragon,
+81,Realme,4 GB RAM,128 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,11999,6.52,Snapdragon,
+82,Realme,4 GB RAM,128 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,11999,6.52,Snapdragon,
+83,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+84,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+85,Realme,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6999,6.1,Mediatek,
+86,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+87,Realme,4 GB RAM,64 GB ROM,,standard battery,5000.0,24,8.0,4,4.5,20062.0,10999,6.52,Snapdragon,
+88,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,10091.0,7499,6.1,Mediatek,
+89,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+90,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+91,Tecno,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,6000.0,23,16.0,3,4.3,2358.0,9999,7.0,Mediatek,
+92,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,14,5.0,2,4.5,5641.0,8999,6.52,Mediatek,12.0
+93,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,14,5.0,2,4.5,8877.0,9999,6.52,Mediatek,12.0
+94,Realme,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6999,6.1,Mediatek,
+95,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,17578.0,18499,6.67,Snapdragon,12.0
+96,Realme,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,11999,6.5,Snapdragon,
+97,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,7062.0,14999,6.5,Mediatek,
+98,Realme,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,11999,6.5,Snapdragon,
+99,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,10999,6.5,Snapdragon,
+100,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,10999,6.5,Snapdragon,
+101,OPPO,4 GB RAM,128 GB ROM,,standard battery,5000.0,60,16.0,4,4.3,4140.0,12990,6.52,Other,12.0
+102,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,14,8.0,2,4.4,55078.0,9999,6.22,Snapdragon,12.0
+103,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,3991.0,17999,6.6,Snapdragon,
+104,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,3991.0,18999,6.6,Snapdragon,
+105,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,4000.0,50,16.0,2,4.4,1595.0,11499,6.53,Mediatek,
+106,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,13778.0,13999,6.3,Snapdragon,
+107,Vivo,6 GB RAM,128 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,16078.0,17990,6.38,Snapdragon,
+108,Vivo,6 GB RAM,128 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,16078.0,17990,6.38,Snapdragon,
+109,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,7062.0,14999,6.5,Mediatek,
+110,POCO,8 GB RAM,256 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,5322.0,21499,6.67,Snapdragon,12.0
+111,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4035.0,60,16.0,4,4.5,13778.0,13999,6.3,Snapdragon,
+112,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,588.0,9990,6.2,Mediatek,12.0
+113,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,3991.0,18999,6.6,Snapdragon,
+114,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,4000.0,50,16.0,2,4.4,1595.0,11499,6.53,Mediatek,
+115,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,4000.0,50,16.0,2,4.4,1595.0,11499,6.53,Mediatek,
+116,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,4.4,35.0,13999,6.53,Mediatek,12.0
+117,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,4.4,35.0,14498,6.53,Mediatek,12.0
+118,Vivo,8 GB RAM,256 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,60,32.0,4,4.4,470.0,27990,6.44,Snapdragon,12.0
+119,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,17499,6.53,Mediatek,12.0
+120,Vivo,8 GB RAM,128 GB ROM,,li-ion battery,4500.0,58,32.0,3,4.4,2295.0,18990,6.38,Snapdragon,
+121,Vivo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,23,8.0,3,4.4,2599.0,10990,6.35,Snapdragon,
+122,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,4000.0,60,32.0,4,4.7,38.0,34990,6.5,Snapdragon,
+123,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,8007.0,24999,6.39,Snapdragon,12.0
+124,Redmi,3 GB RAM,64 GB ROM,,standard battery,5000.0,15,8.0,2,4.2,170.0,9899,6.22,Snapdragon,12.0
+125,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,310.0,8299,6.22,Snapdragon,12.0
+126,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,8007.0,24999,6.39,Snapdragon,12.0
+127,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,82,32.0,4,4.4,78.0,19790,6.4,Exynos,12.0
+128,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,16,8.0,3,4.3,219.0,14990,6.5,Mediatek,12.0
+129,Realme,8 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,4405.0,20999,6.4,Snapdragon,
+130,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,14659.0,17990,6.53,Snapdragon,
+131,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,5000.0,63,16.0,4,4.5,1721.0,16999,6.67,Snapdragon,12.0
+132,Redmi,4 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,4.4,35.0,15864,6.53,Mediatek,12.0
+133,Redmi,4 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,4.4,35.0,15891,6.53,Mediatek,12.0
+134,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,5.0,2,4.2,434.0,9488,5.7,Snapdragon,12.0
+135,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,5.0,2,4.3,77.0,11490,6.22,Mediatek,12.0
+136,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,5.0,2,4.3,994.0,9990,6.22,Mediatek,12.0
+137,Vivo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion battery,4030.0,13,5.0,1,4.3,206.0,8990,6.22,Mediatek,12.0
+138,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,8007.0,24999,6.39,Snapdragon,12.0
+139,OPPO,8 GB RAM,128 GB ROM,,standard battery,4000.0,60,16.0,4,4.4,306.0,21990,6.5,Mediatek,12.0
+140,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.4,1089.0,18990,6.4,Mediatek,
+141,Realme,8 GB RAM,128 GB ROM,,standard battery,4200.0,86,16.0,4,4.4,468.0,25999,6.57,Snapdragon,
+142,Tecno,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery battery,5000.0,52,16.0,3,4.2,393.0,11499,6.55,Mediatek,13.0
+143,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion battery,5000.0,25,16.0,4,4.4,237.0,17990,6.53,Snapdragon,12.0
+144,Realme,4 GB RAM,64 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,3955.0,17999,6.4,Snapdragon,
+145,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,14660.0,17990,6.53,Snapdragon,
+146,OPPO,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,8,5.0,1,4.3,576.0,9590,6.1,Other,12.0
+147,OPPO,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,768.0,7990,6.2,Mediatek,12.0
+148,Redmi,3 GB RAM,64 GB ROM,,standard battery,5000.0,15,8.0,2,4.2,170.0,9899,6.22,Snapdragon,12.0
+149,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,310.0,8400,6.22,Snapdragon,12.0
+150,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,251.0,13859,6.4,Snapdragon,12.0
+151,OPPO,8 GB RAM,128 GB ROM,,standard battery,4000.0,60,16.0,4,4.4,306.0,21990,6.5,Mediatek,12.0
+152,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,26,16.0,3,4.4,398.0,14990,6.53,Mediatek,12.0
+153,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,60,32.0,4,4.4,1048.0,19990,6.38,Snapdragon,12.0
+154,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,60,32.0,4,4.4,1048.0,19990,6.38,Snapdragon,12.0
+155,iQOO,8 GB RAM,256 GB ROM,,li-ion battery,4440.0,76,16.0,4,4.5,1169.0,37990,6.44,Snapdragon,
+156,OPPO,8 GB RAM,128 GB ROM,,standard battery,5000.0,60,16.0,4,4.3,1633.0,21889,6.5,Other,12.0
+157,OPPO,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4230.0,15,5.0,2,4.2,220.0,8990,6.22,Other,12.0
+158,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,16989,6.53,Mediatek,12.0
+159,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.4,1089.0,18990,6.4,Mediatek,
+160,Realme,12 GB RAM,256 GB ROM,,standard battery,4000.0,87,16.0,4,4.6,955.0,35999,6.5,Snapdragon,
+161,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,66,20.0,4,4.3,360.0,20999,6.4,Mediatek,12.0
+162,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,82,32.0,4,4.4,78.0,19948,6.4,Exynos,12.0
+163,Samsung,8 GB RAM,128 GB ROM,,standard battery,3700.0,56,48.0,2,4.4,618.0,33333,6.7,Snapdragon,12.0
+164,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,5000.0,24,16.0,4,4.3,157.0,16990,6.5,Snapdragon,12.0
+165,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,60,32.0,4,4.4,470.0,24990,6.44,Snapdragon,12.0
+166,Vivo,8 GB RAM,256 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,60,32.0,4,4.4,470.0,27990,6.44,Snapdragon,12.0
+167,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,60,32.0,4,4.4,470.0,24990,6.44,Snapdragon,12.0
+168,Realme,8 GB RAM,128 GB ROM,,standard battery,4200.0,86,16.0,4,4.4,468.0,25999,6.57,Snapdragon,
+169,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,423.0,15999,6.5,Exynos,12.0
+170,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,423.0,15999,6.5,Exynos,12.0
+171,Vivo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-ion battery,4030.0,13,5.0,1,4.3,206.0,8990,6.22,Mediatek,12.0
+172,Realme,4 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,13219.0,17999,6.53,Snapdragon,
+173,Realme,8 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,5073.0,20999,6.53,Snapdragon,
+174,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,66,20.0,4,4.3,360.0,20999,6.4,Mediatek,12.0
+175,Nokia,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,15,5.0,2,4.1,82.0,8890,6.2,Mediatek,12.0
+176,Nokia,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,15,5.0,2,4.1,82.0,8898,6.2,Mediatek,12.0
+177,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,251.0,13984,6.4,Snapdragon,12.0
+178,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,423.0,15999,6.5,Exynos,12.0
+179,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,251.0,14598,6.4,Snapdragon,12.0
+180,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,444.0,11970,6.4,Snapdragon,12.0
+181,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,8007.0,24999,6.39,Snapdragon,12.0
+182,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,16984,6.3,Snapdragon,
+183,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.3,19.0,16990,6.4,Mediatek,12.0
+184,Vivo,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,4030.0,13,5.0,1,4.3,1698.0,8450,6.22,Mediatek,12.0
+185,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,565.0,23999,6.4,Exynos,12.0
+186,Honor,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium polymer battery,4000.0,58,16.0,3,4.4,139.0,16999,6.59,Kirin,
+187,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,61,20.0,3,4.3,11.0,17987,6.4,Exynos,12.0
+188,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,61,20.0,3,4.3,11.0,17986,6.4,Exynos,12.0
+189,Redmi,3 GB RAM,64 GB ROM,,standard battery,5000.0,15,8.0,2,4.2,170.0,9390,6.22,Snapdragon,12.0
+190,Realme,8 GB RAM,128 GB ROM,,standard battery,4000.0,87,16.0,4,4.5,2254.0,31999,6.5,Snapdragon,
+191,Realme,8 GB RAM,128 GB ROM,,standard battery,4000.0,87,16.0,4,4.5,2254.0,31999,6.5,Snapdragon,
+192,Realme,12 GB RAM,256 GB ROM,,standard battery,4200.0,82,32.0,4,4.2,105.0,32999,6.57,Snapdragon,
+193,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,170.0,7499,6.22,Snapdragon,12.0
+194,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,170.0,8999,6.22,Snapdragon,12.0
+195,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,15,8.0,2,4.2,170.0,7990,6.22,Snapdragon,12.0
+196,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,10999,6.5,Snapdragon,
+197,Realme,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,60,13.0,4,4.4,24323.0,11999,6.5,Snapdragon,
+198,Realme,6 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,2400.0,19999,6.4,Snapdragon,
+199,Realme,4 GB RAM,64 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,3955.0,17999,6.4,Snapdragon,
+200,Realme,8 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,4405.0,20999,6.4,Snapdragon,
+201,Realme,6 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,2400.0,19999,6.4,Snapdragon,
+202,Realme,6 GB RAM,128 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,2400.0,19999,6.4,Snapdragon,
+203,Realme,4 GB RAM,64 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,3955.0,17999,6.4,Snapdragon,
+204,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,34388.0,14990,6.53,Snapdragon,
+205,Vivo,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,14660.0,15990,6.53,Snapdragon,
+206,Tecno,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery battery,5000.0,52,16.0,3,4.2,393.0,11499,6.55,Mediatek,13.0
+207,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,63,16.0,4,4.8,1.0,14999,6.67,Snapdragon,12.0
+208,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,63,16.0,4,4.8,1.0,14999,6.67,Snapdragon,12.0
+209,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,60,32.0,4,4.4,1048.0,19990,6.38,Snapdragon,12.0
+210,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,34388.0,14990,6.53,Snapdragon,
+211,Lava,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,lithium polymer battery,3950.0,18,13.0,2,4.4,36.0,7777,6.08,Other,12.0
+212,Lava,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,lithium polymer battery,3950.0,18,13.0,2,4.4,36.0,7777,6.08,Other,12.0
+213,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,16,8.0,3,4.3,219.0,14990,6.5,Mediatek,12.0
+214,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.4,1089.0,18990,6.4,Mediatek,
+215,Realme,6 GB RAM,128 GB ROM,,standard battery,4200.0,86,16.0,4,4.4,101.0,24999,6.57,Snapdragon,
+216,Realme,8 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,5073.0,20999,6.53,Snapdragon,
+217,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,3991.0,18999,6.6,Snapdragon,
+218,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,4318.0,16999,6.5,Mediatek,
+219,Vivo,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,26,32.0,3,4.5,14660.0,15990,6.53,Snapdragon,
+220,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,16999,6.53,Mediatek,12.0
+221,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,17499,6.53,Mediatek,12.0
+222,Asus,8 GB RAM,128 GB ROM,,lithium polymer battery,6000.0,82,24.0,3,4.5,205.0,49999,6.59,Snapdragon,12.0
+223,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,76,16.0,4,4.4,4318.0,16999,6.5,Mediatek,
+224,Realme,8 GB RAM,256 GB ROM,,standard battery,4000.0,76,32.0,4,4.5,4405.0,22999,6.4,Snapdragon,
+225,Lava,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,lithium polymer battery,3100.0,8,5.0,1,4.1,31.0,5777,5.45,Unisoc,12.0
+226,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,5000.0,24,16.0,4,4.3,157.0,16990,6.5,Snapdragon,12.0
+227,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,79,32.0,4,4.3,23.0,16999,6.67,Snapdragon,12.0
+228,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,26,16.0,3,4.4,398.0,14990,6.53,Mediatek,12.0
+229,Redmi,3 GB RAM,32 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,17.0,10978,6.3,,12.0
+230,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,4.4,35.0,14498,6.53,Mediatek,12.0
+231,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,10831.0,11999,6.26,Snapdragon,12.0
+232,Redmi,6 GB RAM,128 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,942.0,13261,6.3,,12.0
+233,Realme,8 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,5073.0,21999,6.53,Snapdragon,
+234,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,2036.0,19999,6.6,Snapdragon,
+235,Redmi,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,704.0,18999,6.53,Mediatek,12.0
+236,OnePlus,8 GB RAM,128 GB ROM,,standard battery,3800.0,76,16.0,3,4.6,721.0,34834,6.55,Snapdragon,12.0
+237,OnePlus,8 GB RAM,256 GB ROM,,standard battery,3800.0,76,16.0,3,4.6,721.0,37100,6.55,Snapdragon,12.0
+238,Realme,12 GB RAM,256 GB ROM,,standard battery,4000.0,87,16.0,4,4.6,955.0,36999,6.5,Snapdragon,
+239,Redmi,6 GB RAM,128 GB ROM,,standard battery,4000.0,48,13.0,1,4.4,942.0,13499,6.3,,12.0
+240,Realme,12 GB RAM,256 GB ROM,,standard battery,4200.0,82,32.0,4,4.2,105.0,32999,6.57,Snapdragon,
+241,Vivo,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,13,5.0,1,4.3,1698.0,8290,6.22,Mediatek,12.0
+242,Tecno,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion polymer battery battery,4000.0,55,32.0,3,4.1,39.0,14999,6.53,Mediatek,13.0
+243,iQOO,8 GB RAM,256 GB ROM,,li-ion battery,4440.0,76,16.0,4,4.5,1169.0,37990,6.44,Snapdragon,
+244,Vivo,8 GB RAM,256 GB ROM,,lithium-ion battery,4200.0,74,32.0,4,4.4,24.0,37990,6.56,Snapdragon,
+245,Samsung,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,8,5.0,1,4.1,5.0,7844,5.3,Mediatek,12.0
+246,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,565.0,23999,6.4,Exynos,12.0
+247,Redmi,6 GB RAM,128 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,942.0,13159,6.3,,12.0
+248,Redmi,4 GB RAM,64 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,1243.0,11199,6.3,,12.0
+249,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,26,32.0,3,4.4,176.0,19990,6.38,Mediatek,12.0
+250,Realme,8 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,5073.0,20999,6.53,Snapdragon,
+251,Realme,4 GB RAM,128 GB ROM,,standard battery,3765.0,53,16.0,2,4.5,13219.0,17999,6.53,Snapdragon,
+252,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,53615.0,12987,6.26,Snapdragon,12.0
+253,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,4000.0,60,32.0,4,4.7,38.0,34990,6.5,Snapdragon,
+254,iQOO,8 GB RAM,128 GB ROM,,li-ion battery,4440.0,76,16.0,4,4.5,1169.0,34990,6.44,Snapdragon,
+255,iQOO,8 GB RAM,256 GB ROM,,li-ion battery,4440.0,76,16.0,4,4.5,1169.0,37990,6.44,Snapdragon,
+256,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,61,20.0,3,4.3,39.0,15999,6.4,Exynos,12.0
+257,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,82,32.0,4,4.4,78.0,18934,6.4,Exynos,12.0
+258,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4025.0,87,44.0,4,4.4,216.0,29990,6.4,Mediatek,
+259,Realme,6 GB RAM,64 GB ROM,,standard battery,4000.0,87,16.0,4,4.5,154.0,29999,6.5,Snapdragon,
+260,Realme,12 GB RAM,256 GB ROM,,standard battery,4000.0,87,16.0,4,4.6,955.0,36999,6.5,Snapdragon,
+261,Realme,12 GB RAM,256 GB ROM,,standard battery,4000.0,87,16.0,4,4.6,955.0,35999,6.5,Snapdragon,
+262,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,82,32.0,4,4.4,78.0,18918,6.4,Exynos,12.0
+263,OPPO,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4230.0,15,5.0,2,4.2,220.0,8990,6.22,Other,12.0
+264,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,5309.0,15999,6.53,Mediatek,12.0
+265,OnePlus,8 GB RAM,256 GB ROM,,standard battery,3800.0,76,16.0,3,4.6,721.0,38899,6.55,Snapdragon,12.0
+266,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4065.0,69,16.0,3,4.5,127.0,41990,6.6,Snapdragon,
+267,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium-ion polymer battery,4000.0,60,32.0,4,4.4,16.0,34990,6.5,Snapdragon,
+268,Vivo,8 GB RAM,256 GB ROM,,lithium-ion battery,4315.0,77,32.0,4,4.4,64.0,49990,6.56,Snapdragon,
+269,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,16.0,2,4.4,11506.0,16990,6.5,Mediatek,12.0
+270,Realme,6 GB RAM,64 GB ROM,,standard battery,4000.0,87,16.0,4,4.5,154.0,29999,6.5,Snapdragon,
+271,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.4,1867.0,11990,5.99,Snapdragon,12.0
+272,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-ion battery,2600.0,8,5.0,1,4.2,731.0,6299,5.0,Other,12.0
+273,Honor,4 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium polymer battery,4000.0,58,16.0,3,4.3,1707.0,15999,6.59,Kirin,
+274,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,174.0,17499,6.5,Exynos,12.0
+275,Redmi,8 GB RAM,256 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,1884.0,29999,6.39,Snapdragon,12.0
+276,Vivo,8 GB RAM,128 GB ROM,,lithium-ion battery,4200.0,74,32.0,4,4.4,24.0,34990,6.56,Snapdragon,
+277,OnePlus,8 GB RAM,128 GB ROM,,standard battery,3800.0,76,16.0,3,4.6,721.0,36599,6.55,Snapdragon,12.0
+278,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,61,20.0,3,4.3,39.0,15798,6.4,Exynos,12.0
+279,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,444.0,12490,6.4,Snapdragon,12.0
+280,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,10831.0,11999,6.26,Snapdragon,12.0
+281,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,42999,6.7,Snapdragon,12.0
+282,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,8,5.0,1,4.5,1.0,6385,5.3,Mediatek,12.0
+283,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,44.0,25999,6.4,Exynos,12.0
+284,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,53615.0,13885,6.26,Snapdragon,12.0
+285,Samsung,4 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,56,16.0,2,4.3,299.0,17958,6.4,,12.0
+286,POCO,8 GB RAM,256 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,5322.0,21499,6.67,Snapdragon,12.0
+287,Redmi,4 GB RAM,64 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,1243.0,10900,6.3,,12.0
+288,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,20,8.0,3,4.2,444.0,12399,6.4,Snapdragon,12.0
+289,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,5.0,2,4.2,434.0,9588,5.7,Snapdragon,12.0
+290,Realme,8 GB RAM,128 GB ROM,,standard battery,4200.0,82,32.0,4,4.3,139.0,27999,6.57,Snapdragon,
+291,iQOO,12 GB RAM,256 GB ROM,,li-ion battery,4440.0,76,16.0,4,4.4,188.0,44990,6.44,Snapdragon,
+292,OnePlus,6 GB RAM,128 GB ROM,,standard battery,4000.0,72,16.0,3,4.6,24.0,40199,6.67,,12.0
+293,OnePlus,8 GB RAM,256 GB ROM,,standard battery,4000.0,72,16.0,3,4.5,114.0,44399,6.67,,12.0
+294,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,42999,6.7,Snapdragon,12.0
+295,OnePlus,12 GB RAM,256 GB ROM,,standard battery,4300.0,66,,3,4.5,17.0,49999,6.55,Snapdragon,12.0
+296,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,174.0,17499,6.5,Exynos,12.0
+297,Panasonic,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,8,5.0,1,3.8,599.0,6499,5.45,Mediatek,12.0
+298,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,12138.0,16999,6.4,Other,
+299,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,8761.0,19999,6.4,Other,
+300,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,66,20.0,4,4.3,360.0,20999,6.4,Mediatek,12.0
+301,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,53615.0,13760,6.26,Snapdragon,12.0
+302,Realme,8 GB RAM,128 GB ROM,,standard battery,4200.0,82,32.0,4,4.3,139.0,27999,6.57,Snapdragon,
+303,Honor,4 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium polymer battery,4000.0,58,16.0,3,4.3,1707.0,15999,6.59,Kirin,
+304,Honor,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium polymer battery,4000.0,58,16.0,3,4.4,139.0,16999,6.59,Kirin,
+305,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4020.0,53,16.0,2,4.4,341.0,17990,6.53,Mediatek,12.0
+306,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,36,32.0,3,4.4,141.0,39999,6.7,Exynos,12.0
+307,Redmi,6 GB RAM,128 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,942.0,12999,6.3,,12.0
+308,Asus,8 GB RAM,128 GB ROM,,standard battery,6000.0,61,24.0,2,4.6,1918.0,39999,6.59,Snapdragon,12.0
+309,Infinix,4 GB RAM,64 GB ROM,,li-ion polymer battery,5000.0,15,8.0,2,4.5,35099.0,8499,6.52,Mediatek,12.0
+310,Mi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.2,1136.0,17495,6.08,Snapdragon,12.0
+311,POCO,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,17578.0,17499,6.67,Snapdragon,12.0
+312,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,44.0,25999,6.4,Exynos,12.0
+313,POCO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,3102.0,22999,6.18,Snapdragon,12.0
+314,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,79,32.0,4,4.3,23.0,16998,6.67,Snapdragon,12.0
+315,Vivo,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,23,8.0,3,4.4,2599.0,11490,6.35,Snapdragon,
+316,OPPO,8 GB RAM,128 GB ROM,,standard battery,5000.0,60,16.0,4,4.3,1633.0,14990,6.52,Other,12.0
+317,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,86,32.0,4,4.4,206.0,30999,6.7,Other,12.0
+318,Redmi,8 GB RAM,256 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,1884.0,29999,6.39,Snapdragon,12.0
+319,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,8.0,2,4.3,111.0,11000,6.2,Mediatek,12.0
+320,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,13,8.0,1,3.8,70.0,8440,6.22,Other,
+321,Mi,6 GB RAM,128 GB ROM,,standard battery,3010.0,32,20.0,2,4.1,250.0,13999,5.99,Snapdragon,12.0
+322,Infinix,4 GB RAM,64 GB ROM,,li-ion polymer battery,5000.0,15,8.0,2,4.5,35099.0,8499,6.52,Mediatek,12.0
+323,Infinix,4 GB RAM,64 GB ROM,,li-ion polymer battery,5000.0,15,8.0,2,4.5,35099.0,8499,6.52,Mediatek,12.0
+324,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,26,32.0,3,4.5,732.0,16990,6.38,Mediatek,12.0
+325,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.4,10773.0,6999,6.22,Snapdragon,12.0
+326,Vivo,3 GB RAM,64 GB ROM,,standard battery,5000.0,13,,1,4.4,1210.0,12989,6.3,,12.0
+327,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.3,1505.0,8090,6.26,Snapdragon,12.0
+328,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.3,1505.0,8369,6.26,Snapdragon,12.0
+329,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,36,32.0,3,4.4,141.0,39999,6.7,Exynos,12.0
+330,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,36,32.0,3,4.4,45.0,37999,6.7,Exynos,12.0
+331,Huawei,4 GB RAM,128 GB ROM,,standard battery,4000.0,26,16.0,3,4.3,90.0,16899,6.59,Kirin,12.0
+332,POCO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,3102.0,22999,6.18,Snapdragon,12.0
+333,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,8654.0,17999,6.4,Other,
+334,Nokia,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3500.0,61,20.0,3,4.2,611.0,18099,6.3,Snapdragon,12.0
+335,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,16.0,2,4.4,11506.0,16990,6.5,Mediatek,
+336,Samsung,6 GB RAM,128 GB ROM,,standard battery,3500.0,32,,1,4.2,52.0,16990,6.3,,12.0
+337,Mi,8 GB RAM,256 GB ROM,,standard battery,4780.0,125,20.0,4,4.3,5.0,49990,6.67,Snapdragon,
+338,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium ion battery,4500.0,77,32.0,3,4.3,102.0,27999,6.7,Other,12.0
+339,OnePlus,8 GB RAM,256 GB ROM,,standard battery,3700.0,53,16.0,2,4.6,204.0,37940,6.41,,12.0
+340,OnePlus,8 GB RAM,256 GB ROM,,standard battery,3700.0,53,16.0,2,4.6,204.0,30999,6.41,,12.0
+341,Mi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.2,1136.0,14999,6.08,Snapdragon,12.0
+342,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,16.0,2,4.4,11506.0,16990,6.5,Mediatek,12.0
+343,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,42999,6.7,Snapdragon,12.0
+344,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,16985,6.3,Snapdragon,
+345,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,86,32.0,4,4.4,206.0,34990,6.7,Other,12.0
+346,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,26,32.0,3,4.4,176.0,19990,6.38,Mediatek,12.0
+347,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.5,21245.0,9999,6.5,Snapdragon,
+348,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.5,21245.0,9999,6.5,Snapdragon,
+349,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,10831.0,17998,6.26,Snapdragon,12.0
+350,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4025.0,87,44.0,4,4.4,216.0,29990,6.4,Mediatek,
+351,Asus,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,13,8.0,1,4.0,362.0,7499,5.45,Snapdragon,12.0
+352,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,4000.0,16,16.0,1,3.9,306.0,10999,5.93,Mediatek,12.0
+353,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3600.0,18,25.0,2,4.4,7643.0,14990,6.41,Snapdragon,
+354,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3600.0,18,25.0,2,4.4,7643.0,14990,6.41,Snapdragon,
+355,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,12,8.0,1,4.4,2331.0,24999,5.8,Exynos,12.0
+356,Redmi,4 GB RAM,64 GB ROM,,standard battery,5020.0,48,,1,,,14999,6.5,,12.0
+357,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4025.0,87,44.0,4,4.4,216.0,27990,6.4,Mediatek,
+358,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.4,29669.0,10999,6.5,Snapdragon,
+359,OnePlus,8 GB RAM,256 GB ROM,,standard battery,4085.0,72,16.0,3,4.5,42.0,45470,6.67,Snapdragon,12.0
+360,Coolpad,3 GB RAM,32 GB ROM,,standard battery,3000.0,13,,1,3.7,2.0,7999,5.71,,12.0
+361,Redmi,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,li-polymer battery,4500.0,76,20.0,4,4.4,704.0,18999,6.53,Mediatek,12.0
+362,Coolpad,2 GB RAM,16 GB ROM,,standard battery,2500.0,5,,1,3.5,6.0,5490,5.45,,12.0
+363,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-ion battery,2600.0,8,5.0,1,4.2,731.0,7290,5.0,Other,12.0
+364,Vivo,3 GB RAM,32 GB ROM,,standard battery,4030.0,13,,1,4.3,206.0,9948,6.22,,12.0
+365,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,4727.0,15490,6.3,Snapdragon,12.0
+366,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4010.0,15,13.0,2,4.1,714.0,6499,6.22,Mediatek,
+367,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,8,5.0,1,4.5,1.0,6394,5.3,Mediatek,12.0
+368,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+369,Samsung,8 GB RAM,512 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,47999,6.7,Snapdragon,12.0
+370,Nokia,2 GB RAM,32 GB ROM,,standard battery,4000.0,15,5.0,2,4.1,82.0,9476,6.2,Mediatek,12.0
+371,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,44.0,25999,6.4,Exynos,12.0
+372,Honor,6 GB RAM,128 GB ROM,,standard battery,3750.0,66,32.0,3,4.4,330.0,22999,6.26,Kirin,12.0
+373,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,12138.0,16999,6.4,Other,
+374,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,8761.0,19999,6.4,Other,
+375,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,12999,6.3,Snapdragon,
+376,Mi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.3,2994.0,12999,6.088,Snapdragon,12.0
+377,Redmi,6 GB RAM,64 GB ROM,,standard battery,5020.0,64,,1,4.9,3.0,18990,6.67,,12.0
+378,Vivo,8 GB RAM,128 GB ROM,,lithium-ion battery,4200.0,74,32.0,4,4.4,24.0,34990,6.56,Snapdragon,
+379,Micromax,3 GB RAM,32 GB ROM,,standard battery,4000.0,13,,1,3.8,94.0,8189,5.7,,12.0
+380,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,48,16.0,1,4.3,299.0,14082,6.4,Exynos,12.0
+381,Redmi,4 GB RAM,64 GB ROM,,standard battery,4000.0,48,,1,4.4,1243.0,11540,6.3,,12.0
+382,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,4500.0,60,32.0,4,4.5,680.0,24990,6.44,Snapdragon,
+383,Realme,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.4,29669.0,11999,6.5,Snapdragon,
+384,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,5.0,2,4.2,434.0,9929,5.7,Snapdragon,12.0
+385,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,86,32.0,4,4.4,206.0,33999,6.7,Other,12.0
+386,Vivo,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,26,32.0,3,4.4,176.0,18990,6.38,Mediatek,12.0
+387,LG,3 GB RAM,64 GB ROM,,standard battery,3500.0,16,,1,4.1,2.0,13289,6.26,,12.0
+388,Vivo,8 GB RAM,128 GB ROM,,li-ion battery,4100.0,71,32.0,4,4.5,598.0,29499,6.44,Snapdragon,12.0
+389,Huawei,6 GB RAM,128 GB ROM,,yes battery,3340.0,34,32.0,3,4.0,0.0,19999,6.15,Kirin,12.0
+390,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,38,25.0,3,4.3,5976.0,15499,6.4,Exynos,
+391,Nokia,3 GB RAM,32 GB ROM,Expandable Upto 400 GB,standard battery,4000.0,13,5.0,1,4.1,91.0,10990,6.26,Snapdragon,12.0
+392,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2050.0,2,0.0,1,4.1,8.0,4049,5.0,,12.0
+393,Itel,1 GB RAM,8 GB ROM,,standard battery,2050.0,2,,1,4.1,8.0,4049,5.0,,12.0
+394,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2050.0,2,0.0,1,4.1,8.0,4990,5.0,ARM,12.0
+395,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2050.0,2,0.0,1,4.1,8.0,4999,5.0,ARM,12.0
+396,Vivo,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,4030.0,15,8.0,2,4.4,285.0,12990,6.22,Mediatek,12.0
+397,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4025.0,87,44.0,4,4.4,216.0,27990,6.4,Mediatek,
+398,OPPO,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4025.0,87,44.0,4,4.4,216.0,27990,6.4,Mediatek,
+399,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,25616.0,8499,6.22,Mediatek,
+400,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,25616.0,8499,6.22,Mediatek,
+401,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,6417.0,10499,6.22,Mediatek,
+402,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,li polymer battery,4000.0,17,20.0,2,4.5,123821.0,12999,5.99,Snapdragon,12.0
+403,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4020.0,53,16.0,2,4.4,7590.0,13990,6.53,Mediatek,12.0
+404,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4020.0,53,16.0,2,4.4,341.0,15990,6.53,Mediatek,12.0
+405,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4020.0,53,16.0,2,4.4,7590.0,13990,6.53,Mediatek,12.0
+406,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,12,8.0,1,4.6,3587.0,49990,5.8,Exynos,12.0
+407,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.3,1505.0,8252,6.26,Snapdragon,12.0
+408,LG,6 GB RAM,128 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,25,32.0,2,4.6,2.0,54990,6.4,Snapdragon,12.0
+409,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+410,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-polymer battery,3000.0,13,5.0,1,4.4,65375.0,6498,5.0,Snapdragon,12.0
+411,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,23,8.0,3,4.4,320.0,12990,6.35,Snapdragon,
+412,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,76,16.0,4,4.5,8654.0,17999,6.4,Other,
+413,Mi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.3,2994.0,12999,6.088,Snapdragon,12.0
+414,Redmi,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-polymer battery,3000.0,13,5.0,1,4.5,153238.0,5999,5.0,Snapdragon,12.0
+415,Honor,6 GB RAM,128 GB ROM,,standard battery,3750.0,66,32.0,3,4.4,330.0,22999,6.26,Kirin,12.0
+416,Samsung,4 GB RAM,128 GB ROM,,li-ion battery,4000.0,38,16.0,3,4.3,298.0,19900,6.4,Exynos,12.0
+417,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,25616.0,8499,6.22,Mediatek,
+418,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,4500.0,60,32.0,4,4.5,680.0,24990,6.44,Snapdragon,
+419,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4050.0,15,13.0,2,4.1,625.0,6989,6.26,Spreadtrum,12.0
+420,OnePlus,6 GB RAM,128 GB ROM,,standard battery,3700.0,53,16.0,2,4.6,271.0,29999,6.41,,12.0
+421,OnePlus,6 GB RAM,128 GB ROM,,standard battery,3700.0,53,16.0,2,4.6,271.0,29999,6.41,,12.0
+422,Mi,6 GB RAM,128 GB ROM,,standard battery,3010.0,32,20.0,2,4.1,250.0,16899,5.99,Snapdragon,12.0
+423,POCO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,3102.0,22999,6.18,Snapdragon,12.0
+424,LG,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,25,16.0,2,3.9,108.0,8399,6.26,Mediatek,12.0
+425,LG,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,25,16.0,2,3.9,108.0,9999,6.26,Mediatek,12.0
+426,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3520.0,13,8.0,1,4.1,969.0,5499,5.71,,12.0
+427,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.5,7978.0,7999,5.99,Snapdragon,12.0
+428,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-ion battery,2600.0,8,5.0,1,4.2,731.0,7290,5.0,Other,12.0
+429,Vivo,8 GB RAM,128 GB ROM,,standard battery,4000.0,17,8.0,2,4.2,95.0,25990,6.59,Snapdragon,12.0
+430,Gionee,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,3030.0,15,16.0,2,4.0,551.0,8990,5.7,Snapdragon,12.0
+431,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,3700.0,61,32.0,3,4.5,2800.0,23970,6.39,Snapdragon,
+432,Vivo,4 GB RAM,64 GB ROM,,standard battery,5000.0,16,,1,4.4,119.0,11490,6.53,,12.0
+433,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+434,XOLO,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3000.0,13,13.0,1,3.9,1253.0,8499,5.0,Mediatek,12.0
+435,Lava,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,3000.0,8,5.0,1,4.1,392.0,4999,5.45,Other,12.0
+436,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.4,29669.0,10999,6.5,Snapdragon,
+437,Realme,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,5000.0,24,13.0,4,4.4,29669.0,11999,6.5,Snapdragon,
+438,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,88,10.0,3,4.5,50.0,77999,6.7,Exynos,12.0
+439,Vivo,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,5000.0,23,8.0,3,4.4,2599.0,11490,6.35,Snapdragon,
+440,POCO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,18999,6.18,Snapdragon,12.0
+441,Realme,8 GB RAM,128 GB ROM,,standard battery,4200.0,86,32.0,4,4.3,17.0,41999,6.44,,
+442,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,14,13.0,2,4.4,14212.0,9999,6.3,Snapdragon,
+443,Samsung,12 GB RAM,256 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,132,10.0,3,,,104999,6.9,Exynos,12.0
+444,Samsung,8 GB RAM,512 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,47999,6.7,Snapdragon,12.0
+445,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.4,225.0,12999,6.26,Snapdragon,12.0
+446,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,8.0,1,4.0,167.0,11990,5.2,Snapdragon,12.0
+447,Alcatel,3 GB RAM,32 GB ROM,,standard battery,4000.0,16,13.0,1,4.4,31.0,9550,6.2,,18.0
+448,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4050.0,15,13.0,2,4.1,625.0,7499,6.26,Spreadtrum,12.0
+449,Moto,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,15,8.0,2,4.1,6383.0,7999,6.1,Mediatek,12.0
+450,Samsung,4 GB RAM,64 GB ROM,,standard battery,6000.0,48,,1,4.3,299.0,14140,6.4,,
+451,OnePlus,10 GB RAM,256 GB ROM,,standard battery,3700.0,36,16.0,2,4.4,0.0,39999,6.41,,12.0
+452,YUHO,2 GB RAM,16 GB ROM,,standard battery,2750.0,8,,1,2.8,2.0,5499,5.5,,12.0
+453,Lenovo,2 GB RAM,32 GB ROM,,li-polymer battery,2300.0,13,5.0,1,3.7,905.0,17499,5.0,Mediatek,12.0
+454,Lenovo,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,4050.0,26,16.0,3,4.1,367.0,11499,6.22,Other,12.0
+455,Samsung,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3300.0,13,13.0,1,4.3,21532.0,19900,5.7,Mediatek,12.0
+456,Karbonn,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2300.0,5,2.0,1,3.6,31.0,3599,5.0,,12.0
+457,Karbonn,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2300.0,5,,1,3.6,31.0,3598,5.0,,12.0
+458,Lava,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3000.0,8,5.0,1,4.2,52.0,5050,5.45,Other,12.0
+459,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,38,25.0,3,4.4,960.0,18999,6.4,Exynos,
+460,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,38,25.0,3,4.3,5976.0,15499,6.4,Exynos,
+461,Mi,4 GB RAM,64 GB ROM,,standard battery,3010.0,32,20.0,2,4.2,2835.0,10599,5.99,Snapdragon,12.0
+462,Asus,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,18,8.0,2,4.3,37210.0,8999,5.99,Snapdragon,12.0
+463,ITEL,2 GB RAM,32 GB ROM,,standard battery,2400.0,8,,1,4.1,46.0,4699,5.45,,12.0
+464,OPPO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3600.0,18,25.0,2,4.3,107.0,13990,6.41,Snapdragon,
+465,Lava,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,lithium polymer battery,3100.0,8,5.0,1,4.1,31.0,6499,5.45,Unisoc,12.0
+466,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3520.0,13,8.0,1,4.1,969.0,5499,5.71,,12.0
+467,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3520.0,13,8.0,1,4.1,969.0,5499,5.71,,12.0
+468,Honor,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,standard battery,3340.0,18,13.0,2,4.3,10408.0,19999,5.9,Kirin,12.0
+469,Asus,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,18,8.0,2,4.3,37210.0,8999,5.99,Snapdragon,12.0
+470,Itel,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,3020.0,5,2.0,1,4.5,3.0,3790,5.0,ARM,12.0
+471,Itel,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,3020.0,5,2.0,1,4.5,3.0,3750,5.0,ARM,12.0
+472,Itel,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,3020.0,5,2.0,1,4.5,3.0,3999,5.0,ARM,12.0
+473,Karbonn,512 MB RAM,4 GB ROM,Expandable Upto 32 GB,li-ion battery,1300.0,2,,1,3.6,555.0,2741,3.5,Mediatek,12.0
+474,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,53,13.0,2,4.4,33528.0,11999,6.3,Snapdragon,
+475,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,15999,6.3,Snapdragon,
+476,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,16999,6.3,Snapdragon,
+477,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,16999,6.3,Snapdragon,
+478,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3500.0,24,8.0,2,4.5,3625.0,30999,6.2,Exynos,12.0
+479,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.5,7978.0,10285,5.99,Snapdragon,12.0
+480,Mi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.3,2994.0,12999,6.088,Snapdragon,12.0
+481,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,38,25.0,3,4.4,960.0,18999,6.4,Exynos,
+482,Kenxinda,1 GB RAM,8 GB ROM,Expandable Upto 128 GB,standard battery,4000.0,5,,1,3.4,34.0,3199,5.0,ARM,12.0
+483,OPPO,8 GB RAM,128 GB ROM,,standard battery,3700.0,32,25.0,2,4.1,76.0,31590,6.4,Other,12.0
+484,OPPO,8 GB RAM,128 GB ROM,,standard battery,3700.0,32,25.0,2,4.1,76.0,31590,6.4,Other,12.0
+485,Samsung,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,8.0,2,4.3,165.0,8980,6.2,Mediatek,12.0
+486,Nokia,3 GB RAM,32 GB ROM,,standard battery,3500.0,13,,1,4.2,457.0,7088,6.0,Mediatek,12.0
+487,Tecno,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3050.0,16,8.0,2,4.1,96.0,6399,5.5,,12.0
+488,POCO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,18999,6.18,Snapdragon,12.0
+489,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-polymer battery,3100.0,13,5.0,1,3.9,1158.0,5999,5.5,Mediatek,12.0
+490,Coolpad,2 GB RAM,16 GB ROM,,standard battery,2500.0,5,,1,3.5,6.0,5450,5.45,,12.0
+491,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,70,32.0,4,4.4,565.0,23999,6.4,Exynos,12.0
+492,Gionee,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,2670.0,8,5.0,1,4.0,489.0,3999,5.45,Mediatek,12.0
+493,Gionee,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,2670.0,8,5.0,1,4.0,489.0,3999,5.45,Mediatek,12.0
+494,Google,4 GB RAM,64 GB ROM,,standard battery,3000.0,14,8.0,1,4.5,934.0,30999,5.6,Snapdragon,
+495,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4020.0,53,16.0,2,4.4,341.0,15990,6.53,Mediatek,12.0
+496,Nokia,4 GB RAM,64 GB ROM,,standard battery,3500.0,29,8.0,3,4.2,30.0,13390,6.3,,12.0
+497,Lava,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion battery,2500.0,5,2.0,1,4.0,14.0,3690,5.0,Unisoc,12.0
+498,Alcatel,1 GB RAM,8 GB ROM,,standard battery,2000.0,8,,1,3.2,3.0,4999,5.0,,18.0
+499,Alcatel,1 GB RAM,8 GB ROM,,standard battery,2000.0,8,,1,3.2,3.0,4999,5.0,,18.0
+500,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,4727.0,15490,6.3,Snapdragon,12.0
+501,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.5,7978.0,10390,5.99,Snapdragon,12.0
+502,Samsung,12 GB RAM,256 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,132,10.0,3,,,104999,6.9,Exynos,12.0
+503,Samsung,8 GB RAM,256 GB ROM,,lithium-ion battery,4300.0,88,10.0,3,,,77999,6.7,Exynos,12.0
+504,Mi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4030.0,58,32.0,3,4.2,1136.0,14999,6.08,Snapdragon,12.0
+505,LG,6 GB RAM,128 GB ROM,Expandable Upto 2 TB,li-ion battery,3000.0,32,8.0,2,4.4,878.0,20999,6.1,Snapdragon,12.0
+506,Redmi,4 GB RAM,64 GB ROM,,standard battery,4000.0,56,13.0,2,4.4,1243.0,14499,6.3,,12.0
+507,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,18,8.0,2,4.3,36248.0,7999,5.99,Snapdragon,12.0
+508,Micromax,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,4000.0,13,8.0,1,3.9,12.0,7980,5.7,Mediatek,12.0
+509,Celkon,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,16,8.0,1,3.2,3.0,6789,5.0,ARM,12.0
+510,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium ion battery,4500.0,77,32.0,3,4.3,102.0,28000,6.7,Other,12.0
+511,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,3000.0,13,13.0,1,4.1,4139.0,10999,5.5,Snapdragon,12.0
+512,VOTO,2 GB RAM,16 GB ROM,,li-ion battery,3000.0,13,5.0,1,3.5,16.0,3690,5.0,Spreadtrum,12.0
+513,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,8.0,1,4.0,167.0,6999,5.2,Snapdragon,12.0
+514,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,17,5.0,2,4.3,796.0,11350,5.84,Snapdragon,12.0
+515,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,17,5.0,2,4.3,796.0,8190,5.84,Snapdragon,12.0
+516,Micromax,3 GB RAM,32 GB ROM,,polymer battery,2900.0,13,16.0,1,4.1,2097.0,8299,5.7,Snapdragon,12.0
+517,OnePlus,8 GB RAM,128 GB ROM,,standard battery,4300.0,66,16.0,3,4.6,19.0,44999,6.55,Snapdragon,12.0
+518,OPPO,8 GB RAM,256 GB ROM,,li-polymer battery,3730.0,36,25.0,2,4.6,82.0,60990,6.4,Snapdragon,12.0
+519,OPPO,8 GB RAM,256 GB ROM,,li-polymer battery,3730.0,36,25.0,2,4.6,82.0,60990,6.4,Snapdragon,12.0
+520,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,60,16.0,4,4.5,521.0,27490,6.5,Mediatek,
+521,Redmi,6 GB RAM,128 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+522,Samsung,4 GB RAM,128 GB ROM,,li-ion battery,4000.0,61,32.0,3,4.3,779.0,18570,6.4,Exynos,12.0
+523,Nokia,4 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3060.0,21,16.0,2,4.3,26274.0,9499,5.8,Snapdragon,12.0
+524,Karbonn,2 GB RAM,16 GB ROM,,standard battery,2500.0,8,,1,3.7,145.0,3999,5.45,,12.0
+525,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium ion battery,4500.0,77,32.0,3,4.2,140.0,26990,6.7,Other,12.0
+526,Gionee,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,3030.0,15,16.0,2,4.0,551.0,10990,5.7,Snapdragon,12.0
+527,ITEL,2 GB RAM,32 GB ROM,,standard battery,2400.0,8,,1,4.1,46.0,4699,5.45,,12.0
+528,Mobiistar,3 GB RAM,32 GB ROM,,standard battery,3000.0,13,13.0,1,3.7,37.0,5554,5.7,,12.0
+529,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3225.0,16,24.0,1,4.4,2706.0,13990,5.99,Snapdragon,12.0
+530,Asus,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,13,8.0,1,4.1,17701.0,6499,5.45,Snapdragon,12.0
+531,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium ion battery,4000.0,26,8.0,3,4.3,70.0,12900,6.5,Other,12.0
+532,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3100.0,28,10.0,2,4.5,95.0,59000,5.8,Exynos,12.0
+533,Meizu,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,5.0,1,4.1,198.0,6990,5.45,Other,12.0
+534,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3400.0,28,10.0,2,4.6,175.0,57800,6.1,Exynos,12.0
+535,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4100.0,28,10.0,2,4.6,126.0,65200,6.4,Exynos,12.0
+536,Coolpad,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,5,2.0,1,3.7,71.0,2850,5.0,Other,12.0
+537,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,12999,6.3,Snapdragon,
+538,Mi,6 GB RAM,128 GB ROM,,standard battery,3010.0,32,20.0,2,4.1,250.0,16899,5.99,Snapdragon,12.0
+539,Lenovo,3 GB RAM,32 GB ROM,,li-ion battery,3500.0,13,8.0,1,3.9,972.0,8250,5.0,Snapdragon,12.0
+540,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,3700.0,73,32.0,2,4.5,2800.0,21099,6.39,Snapdragon,
+541,Redmi,6 GB RAM,64 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+542,Honor,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,1323.0,12199,6.21,Kirin,12.0
+543,Realme,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,43549.0,9499,6.22,Mediatek,12.0
+544,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,88,10.0,3,4.5,50.0,77999,6.7,Exynos,12.0
+545,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,15,8.0,2,4.3,12649.0,7999,6.26,Snapdragon,12.0
+546,Honor,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,13.0,2,4.3,66369.0,13999,5.65,Kirin,12.0
+547,Honor,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,13.0,2,4.3,66369.0,13999,5.65,Kirin,12.0
+548,Honor,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,13.0,2,4.3,12119.0,16999,5.65,Kirin,12.0
+549,Honor,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,13.0,2,4.3,66369.0,13999,5.65,Kirin,12.0
+550,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,8.0,1,4.0,167.0,6490,5.2,Snapdragon,12.0
+551,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,8.0,1,4.0,167.0,6490,5.2,Snapdragon,12.0
+552,Karbonn,32 MB RAM,32 MB ROM,Expandable Upto 32 GB,standard battery,1800.0,3,,1,3.8,132.0,1298,2.4,,12.0
+553,Karbonn,32 MB RAM,32 MB ROM,Expandable Upto 32 GB,standard battery,1800.0,3,,1,3.8,132.0,887,2.4,,12.0
+554,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,li polymer battery,4000.0,12,5.0,1,4.4,39973.0,9499,5.99,Snapdragon,12.0
+555,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,6417.0,10499,6.22,Mediatek,
+556,Vivo,8 GB RAM,128 GB ROM,,li-ion battery,4100.0,71,32.0,4,4.5,598.0,29499,6.44,Snapdragon,12.0
+557,Asus,6 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,21,16.0,2,4.3,26353.0,11999,5.99,Snapdragon,12.0
+558,Intex,1 GB RAM,8 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,5,5.0,1,3.7,71.0,3999,5.34,,12.0
+559,Intex,1 GB RAM,8 GB ROM,,standard battery,3000.0,5,,1,3.7,71.0,3999,5.34,,12.0
+560,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,36,32.0,3,4.4,141.0,39999,6.7,Exynos,12.0
+561,Gionee,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,4010.0,13,16.0,1,4.0,1028.0,21499,5.5,Mediatek,12.0
+562,Nokia,4 GB RAM,64 GB ROM,,standard battery,3500.0,29,8.0,3,4.2,30.0,12849,6.3,,12.0
+563,Alcatel,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,21,8.0,2,3.6,357.0,5999,6.0,Other,12.0
+564,POCO,8 GB RAM,256 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,5322.0,21499,6.67,Snapdragon,12.0
+565,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium ion battery,4000.0,26,8.0,3,4.3,80.0,14900,6.5,Other,12.0
+566,Tecno,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3750.0,26,16.0,2,4.3,8.0,7150,6.2,Other,12.0
+567,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,3050.0,13,8.0,1,4.0,4013.0,7999,5.45,Mediatek,12.0
+568,Honor,6 GB RAM,256 GB ROM,Expandable Upto 512 GB,li-polymer battery,4000.0,58,16.0,3,3.9,884.0,17999,6.59,Kirin,12.0
+569,OPPO,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,8,5.0,1,4.3,576.0,7490,6.1,Other,12.0
+570,Samsung,3 GB RAM,32 GB ROM,,standard battery,5000.0,13,,1,4.3,53.0,10399,6.4,,12.0
+571,Mobiistar,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,5,,1,4.0,141.0,3990,5.34,Mediatek,12.0
+572,Samsung,4 GB RAM,128 GB ROM,,li-ion battery,4000.0,61,32.0,3,4.3,779.0,18570,6.4,Exynos,12.0
+573,Vivo,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4500.0,48,,1,4.5,680.0,23990,6.44,Snapdragon,12.0
+574,Panasonic,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,lithium-ion battery,2500.0,8,5.0,1,4.0,920.0,4990,5.45,Other,12.0
+575,Google,4 GB RAM,64 GB ROM,,standard battery,3000.0,14,8.0,1,4.5,934.0,30999,5.6,Snapdragon,
+576,Samsung,4 GB RAM,128 GB ROM,,li-ion battery,4000.0,38,16.0,3,4.3,298.0,19900,6.4,Exynos,12.0
+577,Tecno,2 GB RAM,16 GB ROM,,standard battery,3050.0,13,,1,4.1,23.0,4970,5.45,,12.0
+578,Forme,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2500.0,13,,1,3.6,34.0,5999,5.5,Mediatek,12.0
+579,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,4000.0,15,16.0,2,4.2,2590.0,10999,6.2,Snapdragon,12.0
+580,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,4000.0,15,16.0,2,4.2,2590.0,10999,6.2,Snapdragon,12.0
+581,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,4000.0,15,16.0,2,4.2,2590.0,10999,6.2,Snapdragon,12.0
+582,Blackbear,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2500.0,8,5.0,1,2.7,0.0,4999,5.5,Other,12.0
+583,Nokia,3 GB RAM,32 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,15,8.0,2,4.1,152.0,12990,5.71,Snapdragon,12.0
+584,Lava,512 MB RAM,8 GB ROM,,li-ion battery,1750.0,5,0.0,1,3.5,107.0,2499,4.5,,12.0
+585,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,71,16.0,4,4.5,176.0,38990,6.5,Snapdragon,
+586,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.4,1867.0,8499,5.99,Snapdragon,12.0
+587,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,1991.0,8990,6.2,Snapdragon,12.0
+588,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,15,8.0,2,4.3,12649.0,7999,6.26,Snapdragon,12.0
+589,LG,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,13,5.0,1,3.3,2.0,9990,5.5,,12.0
+590,Tecno,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3750.0,15,16.0,2,4.3,8.0,7250,6.2,,1.0
+591,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li polymer battery,4000.0,12,5.0,1,4.4,43588.0,8799,5.99,Snapdragon,12.0
+592,Gionee,3 GB RAM,64 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,5020.0,13,5.0,1,4.1,27.0,26999,6.0,Mediatek,12.0
+593,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3800.0,47,24.0,4,4.4,70.0,36000,6.3,Snapdragon,12.0
+594,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.4,10773.0,6999,6.22,Snapdragon,12.0
+595,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,23,32.0,3,4.2,3923.0,9599,6.21,Mediatek,12.0
+596,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128,standard battery,2630.0,8,8.0,1,3.9,1301.0,5290,5.0,Mediatek,12.0
+597,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,16477.0,10499,6.22,Mediatek,
+598,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,43549.0,8499,6.22,Mediatek,
+599,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,43549.0,8499,6.22,Mediatek,
+600,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,88,10.0,3,4.5,50.0,77899,6.7,Exynos,12.0
+601,Tecno,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion battery,4000.0,8,8.0,1,4.2,33.0,5999,6.52,Mediatek,
+602,Lenovo,4 GB RAM,64 GB ROM,,li-ion battery,3500.0,13,8.0,1,3.8,961.0,9899,5.0,Snapdragon,12.0
+603,Meizu,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,8.0,1,4.1,198.0,6990,5.45,Other,12.0
+604,Realme,8 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,2036.0,19999,6.6,Snapdragon,
+605,Gionee,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,3000.0,13,5.0,1,4.1,1074.0,4499,5.45,Other,12.0
+606,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4500.0,86,32.0,4,4.4,206.0,30999,6.7,Other,12.0
+607,OPPO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,71,16.0,4,4.5,176.0,38990,6.5,Snapdragon,
+608,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,53,13.0,2,4.4,33528.0,11999,6.3,Snapdragon,
+609,OPPO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,1342.0,10599,6.2,Snapdragon,12.0
+610,Asus,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-polymer battery,2070.0,13,5.0,1,4.1,391.0,5990,5.0,Snapdragon,12.0
+611,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,2450.0,8,5.0,1,3.8,78.0,6340,5.0,,12.0
+612,Karbonn,512 MB RAM,4 GB ROM,Expandable Upto 32 GB,li-ion battery,1300.0,2,,1,3.6,555.0,3290,3.5,Mediatek,12.0
+613,Yu,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,lithium ion battery,2500.0,13,5.0,1,3.8,900.0,6699,5.0,Mediatek,12.0
+614,Lava,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,3380.0,8,5.0,1,4.2,44.0,5549,6.0,Mediatek,12.0
+615,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium ion battery,4000.0,26,8.0,3,4.3,80.0,14900,6.5,Other,12.0
+616,Redmi,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-polymer battery,3000.0,13,5.0,1,4.5,153238.0,5999,5.0,Snapdragon,12.0
+617,Realme,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,16999,6.3,Snapdragon,
+618,Samsung,2 GB RAM,16 GB ROM,,standard battery,2600.0,8,5.0,1,4.2,26.0,6990,5.0,,12.0
+619,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2000.0,5,5.0,1,3.9,17.0,3666,4.5,Other,12.0
+620,Moto,2 GB RAM,16 GB ROM,,li-ion battery,2300.0,13,2.0,1,4.2,1194.0,23999,5.2,Snapdragon,12.0
+621,Moto,2 GB RAM,32 GB ROM,,li-ion battery,2300.0,13,2.0,1,4.2,1194.0,24999,5.2,Snapdragon,12.0
+622,Tecno,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3500.0,21,16.0,2,4.1,14.0,7599,6.2,,6.0
+623,OPPO,8 GB RAM,128 GB ROM,,standard battery,3500.0,16,,1,,,22999,6.4,,12.0
+624,Comio,1.5 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,2500.0,8,5.0,1,3.9,51.0,3964,5.0,,15.0
+625,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2000.0,5,2.0,1,4.0,283.0,5749,5.0,Snapdragon,12.0
+626,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,16477.0,10499,6.22,Mediatek,
+627,POCO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,19999,6.18,Snapdragon,12.0
+628,Panasonic,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,8,,1,3.7,45.0,4490,5.0,,12.0
+629,POCO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,19999,6.18,Snapdragon,12.0
+630,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,336.0,9490,6.2,Mediatek,12.0
+631,Gionee,3 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-polymer battery,2400.0,13,5.0,1,3.9,618.0,8600,5.0,Other,12.0
+632,ITEL,2 GB RAM,32 GB ROM,,standard battery,2400.0,8,,1,4.1,46.0,4730,5.45,,12.0
+633,Micromax,3 GB RAM,16 GB ROM,Expandable Upto 32 GB,li-polymer battery,2500.0,8,5.0,1,3.6,45.0,5299,5.0,Other,12.0
+634,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,6417.0,10499,6.22,Mediatek,
+635,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4020.0,18,16.0,2,4.4,71.0,16490,6.53,Mediatek,12.0
+636,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,13999,6.3,Snapdragon,
+637,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.4,10773.0,6999,6.22,Snapdragon,12.0
+638,ZOPO,3 GB RAM,16 GB ROM,,standard battery,2500.0,8,5.0,1,3.6,12.0,4570,5.5,,12.0
+639,Black,6 GB RAM,128 GB ROM,,standard battery,4000.0,60,20.0,2,4.4,386.0,31999,6.39,Snapdragon,12.0
+640,POCO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,18999,6.18,Snapdragon,12.0
+641,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,3050.0,13,8.0,1,4.0,4013.0,7499,5.45,Mediatek,12.0
+642,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-polymer battery,3100.0,13,5.0,1,3.9,1158.0,5950,5.5,Mediatek,12.0
+643,Samsung,4 GB RAM,64 GB ROM,,li-ion battery,4000.0,38,16.0,3,4.3,298.0,18900,6.4,Exynos,12.0
+644,Samsung,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,8.0,2,4.3,165.0,8980,6.2,Mediatek,12.0
+645,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2400.0,13,2.0,2,4.1,31.0,3590,5.45,,12.0
+646,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2400.0,13,2.0,2,4.1,31.0,3590,5.45,,12.0
+647,Nokia,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,16,,1,4.2,3457.0,8999,5.5,Snapdragon,12.0
+648,Homtom,3 GB RAM,32 GB ROM,,standard battery,3500.0,13,,1,3.6,56.0,5049,5.5,,36.0
+649,OPPO,8 GB RAM,128 GB ROM,,standard battery,3765.0,48,,1,,,29950,6.4,,12.0
+650,Lava,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-polymer battery,4120.0,8,5.0,1,3.9,7.0,5499,6.1,Unisoc,12.0
+651,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,4010.0,15,13.0,2,4.1,714.0,5699,6.22,Mediatek,
+652,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3800.0,47,24.0,4,4.4,68.0,39000,6.3,Snapdragon,12.0
+653,Yu,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,polymer battery,4000.0,13,5.0,1,4.1,8190.0,4999,5.45,Other,12.0
+654,Yu,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,polymer battery,4000.0,13,5.0,1,4.1,8190.0,4999,5.45,Other,12.0
+655,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,1550.0,5,0.0,1,3.5,15.0,3499,4.0,Other,12.0
+656,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,21,16.0,2,4.4,1422.0,18000,6.4,Exynos,
+657,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,53,13.0,2,4.4,33528.0,11999,6.3,Snapdragon,
+658,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,4000.0,13,2.0,2,4.0,38.0,3990,5.45,,12.0
+659,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.3,336.0,13750,6.2,Mediatek,12.0
+660,Samsung,4 GB RAM,64 GB ROM,,li-ion battery,4000.0,38,16.0,3,4.3,298.0,18900,6.4,Exynos,12.0
+661,Panasonic,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,lithium ion battery,2200.0,8,5.0,1,3.9,293.0,3999,5.0,Mediatek,12.0
+662,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.3,10076.0,7499,6.22,Snapdragon,12.0
+663,InFocus,2 GB RAM,16 GB ROM,,standard battery,2600.0,13,8.0,1,3.9,66.0,7500,5.5,Other,12.0
+664,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,,,17498,6.53,Mediatek,12.0
+665,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,,,17198,6.53,Mediatek,12.0
+666,Redmi,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,48,,1,,,17498,6.53,Mediatek,12.0
+667,Micromax,512 MB RAM,4 GB ROM,,standard battery,1200.0,4,,1,2.9,27.0,2399,3.5,,12.0
+668,Tecno,3 GB RAM,32 GB ROM,,standard battery,4000.0,13,,1,4.4,9.0,6399,6.0,,12.0
+669,Tecno,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3050.0,15,8.0,2,4.1,96.0,6399,5.5,,12.0
+670,Coolpad,4 GB RAM,64 GB ROM,,standard battery,4000.0,13,,1,3.9,27.0,7290,6.22,,12.0
+671,Realme,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6499,6.1,Mediatek,
+672,LG,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,4050.0,39,16.0,4,4.0,20.0,13499,6.21,Other,12.0
+673,Lenovo,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,li-ion battery,2900.0,13,5.0,1,4.0,24533.0,9999,5.5,Mediatek,12.0
+674,Lenovo,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,li-ion battery,2900.0,13,5.0,1,4.0,24533.0,9999,5.5,Mediatek,12.0
+675,Infinix,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion polymer battery,4000.0,15,13.0,2,4.2,3474.0,9999,6.19,Mediatek,12.0
+676,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,13.0,2,4.4,16477.0,9499,6.22,Mediatek,
+677,Vivo,3 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,3360.0,13,5.0,1,4.3,415.0,10999,6.0,Snapdragon,12.0
+678,Vivo,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,3360.0,13,5.0,1,4.3,336.0,12950,6.0,Snapdragon,12.0
+679,Samsung,6 GB RAM,128 GB ROM,,li-ion battery,4000.0,61,32.0,3,4.3,915.0,26900,6.4,Exynos,12.0
+680,Samsung,6 GB RAM,128 GB ROM,,li-ion battery,4000.0,61,32.0,3,4.3,915.0,26900,6.4,Exynos,12.0
+681,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium ion battery,4500.0,77,32.0,3,4.3,102.0,28000,6.7,Other,12.0
+682,Nokia,4 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3060.0,21,16.0,2,4.3,26274.0,9499,5.8,Snapdragon,12.0
+683,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3800.0,47,24.0,4,4.4,70.0,36000,6.3,Snapdragon,12.0
+684,Honor,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,12,8.0,1,4.3,958.0,8990,5.2,Other,15.0
+685,Micromax,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3000.0,16,5.0,2,3.7,6.0,4380,5.7,,12.0
+686,Comio,1 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,2200.0,8,5.0,1,3.8,27.0,4090,5.0,,15.0
+687,Kenxinda,1 GB RAM,8 GB ROM,,standard battery,5000.0,5,,1,3.6,3.0,3699,5.5,,12.0
+688,ZOPO,3 GB RAM,16 GB ROM,,standard battery,2500.0,8,5.0,1,3.6,12.0,3980,5.5,,12.0
+689,Redmi,1 GB RAM,8 GB ROM,Expandable Upto 128 GB,li polymer battery,3000.0,8,5.0,1,4.3,13123.0,4499,5.0,Snapdragon,12.0
+690,MI3,2 GB RAM,16 GB ROM,,li-ion battery,3050.0,13,2.0,1,4.4,5142.0,13999,5.0,Snapdragon,12.0
+691,Samsung,2 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,8.0,2,4.3,165.0,8980,6.2,Mediatek,12.0
+692,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-polymer battery,4100.0,13,5.0,1,4.4,111861.0,7339,5.5,Snapdragon,12.0
+693,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,63,16.0,4,4.2,107.0,12999,6.67,Snapdragon,12.0
+694,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,63,16.0,4,4.2,107.0,16995,6.67,Snapdragon,12.0
+695,Honor,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,16.0,2,4.4,22015.0,7999,5.84,Kirin,12.0
+696,Honor,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,16.0,2,4.3,21349.0,15999,5.84,Kirin,12.0
+697,Mobiistar,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,13.0,1,3.8,57.0,8999,5.45,,12.0
+698,Samsung,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium-ion battery,5000.0,60,13.0,4,4.2,174.0,17499,6.5,Exynos,12.0
+699,Zen,1 GB RAM,8 GB ROM,,standard battery,2300.0,2,,1,3.0,6.0,2970,4.0,,12.0
+700,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3300.0,37,24.0,3,4.4,283.0,24600,6.0,Exynos,12.0
+701,Panasonic,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,2600.0,13,5.0,1,3.9,200.0,6155,5.3,Other,12.0
+702,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,36,32.0,3,4.4,45.0,37999,6.7,Exynos,12.0
+703,Lenovo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,18,13.0,2,4.1,1830.0,6499,5.7,Mediatek,12.0
+704,Mi,4 GB RAM,64 GB ROM,,standard battery,3010.0,32,20.0,2,4.2,2835.0,9188,5.99,Snapdragon,12.0
+705,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,15,8.0,2,4.3,111.0,11000,6.2,Mediatek,12.0
+706,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,15999,6.3,Snapdragon,
+707,Tecno,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion battery,4000.0,8,8.0,1,4.2,33.0,5999,6.52,Mediatek,
+708,Meizu,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3070.0,13,5.0,1,3.8,502.0,8999,5.2,ARM,12.0
+709,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2000.0,5,2.0,1,3.6,172.0,2999,5.0,Spreadtrum,12.0
+710,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2000.0,5,2.0,1,3.6,172.0,2999,5.0,Other,12.0
+711,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1750.0,5,0.0,1,3.5,183.0,2999,4.5,Other,12.0
+712,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1750.0,5,0.0,1,3.5,183.0,2999,4.5,Spreadtrum,12.0
+713,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1750.0,5,0.0,1,3.5,183.0,2999,4.5,Other,12.0
+714,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,,1,4.3,3666.0,5599,5.45,Other,12.0
+715,Samsung,4 GB RAM,128 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,12,8.0,1,4.4,2331.0,39900,5.8,Exynos,12.0
+716,Lenovo,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,13,8.0,1,4.0,964.0,7999,5.45,Mediatek,12.0
+717,Vivo,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-ion battery,3200.0,17,12.0,2,4.2,294.0,36990,6.28,Snapdragon,12.0
+718,Samsung,8 GB RAM,256 GB ROM,,standard battery,3500.0,40,10.0,3,4.5,36.0,75000,6.3,,12.0
+719,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,14,13.0,2,4.5,16498.0,14290,6.3,Snapdragon,
+720,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,12,8.0,1,4.4,2331.0,24999,5.8,Exynos,12.0
+721,Honor,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,6766.0,11599,6.21,Kirin,12.0
+722,Honor,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,1323.0,12199,6.21,Kirin,12.0
+723,Honor,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,2808.0,13999,6.21,Kirin,12.0
+724,Karbonn,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,1400.0,2,0.0,1,3.6,183.0,2499,4.0,Mediatek,12.0
+725,Redmi,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,12,5.0,1,4.3,27670.0,6499,5.45,Snapdragon,24.0
+726,OPPO,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4020.0,18,16.0,2,4.4,71.0,16490,6.53,Mediatek,12.0
+727,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3400.0,28,10.0,2,4.6,175.0,57800,6.1,Exynos,12.0
+728,Gionee,3 GB RAM,64 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,5020.0,13,5.0,1,4.1,27.0,9499,6.0,Other,12.0
+729,Alcatel,3 GB RAM,32 GB ROM,,standard battery,4000.0,16,,1,4.4,31.0,9550,6.2,,18.0
+730,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1800.0,5,2.0,1,3.8,1314.0,3550,4.5,Spreadtrum,12.0
+731,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li polymer battery,3550.0,15,8.0,2,4.2,66.0,6999,6.09,Other,12.0
+732,OnePlus,6 GB RAM,128 GB ROM,,standard battery,3700.0,36,16.0,2,4.5,0.0,30999,6.41,,12.0
+733,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2400.0,13,2.0,2,4.1,31.0,3590,5.45,,12.0
+734,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-polymer battery,2500.0,8,5.0,1,3.8,495.0,3999,5.0,Mediatek,12.0
+735,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-polymer battery,2500.0,8,5.0,1,3.8,495.0,3999,5.0,Mediatek,12.0
+736,Asus,6 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,21,16.0,2,4.3,26353.0,11999,5.99,Snapdragon,12.0
+737,Realme,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,15,5.0,2,4.4,67674.0,6499,6.1,Mediatek,
+738,Honor,6 GB RAM,64 GB ROM,,standard battery,3750.0,18,16.0,2,4.5,386.0,25999,6.3,Kirin,12.0
+739,Lava,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,3380.0,8,5.0,1,4.2,44.0,5549,6.0,Mediatek,12.0
+740,Ringme,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2800.0,5,5.0,1,3.4,1.0,5499,5.99,Other,3.0
+741,Ringme,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2800.0,5,5.0,1,3.4,1.0,5499,5.99,Other,3.0
+742,Itel,2 GB RAM,16 GB ROM,,standard battery,2400.0,8,,1,4.3,12.0,5090,5.45,,12.0
+743,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3260.0,15,16.0,2,4.5,2949.0,17990,6.3,Snapdragon,12.0
+744,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3260.0,15,16.0,2,4.5,2949.0,17990,6.3,Snapdragon,12.0
+745,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,3400.0,16,25.0,1,4.5,380.0,14990,6.23,Mediatek,12.0
+746,Vivo,3 GB RAM,64 GB ROM,,standard battery,5000.0,13,,1,4.4,1210.0,11699,6.3,,12.0
+747,Karbonn,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,4000.0,5,5.0,1,4.0,53.0,3599,5.0,Mediatek,12.0
+748,POCO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,29900.0,18999,6.18,Snapdragon,12.0
+749,Intex,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion battery,2800.0,13,5.0,1,3.7,24.0,4999,5.2,Other,12.0
+750,OPPO,8 GB RAM,128 GB ROM,,standard battery,3500.0,16,,1,,,22999,6.4,,12.0
+751,Nokia,3 GB RAM,32 GB ROM,,standard battery,3500.0,13,,1,4.2,457.0,10999,6.0,,12.0
+752,Samsung,12 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,5000.0,168,40.0,3,4.3,16.0,97999,6.9,Exynos,12.0
+753,Gome,3 GB RAM,32 GB ROM,Expandable Upto 64 GB,standard battery,3500.0,23,,3,4.1,2.0,4990,5.99,,12.0
+754,Itel,2 GB RAM,16 GB ROM,,standard battery,2400.0,5,5.0,1,3.8,5.0,4999,5.0,,12.0
+755,Honor,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,standard battery,3340.0,18,13.0,2,4.3,10408.0,19999,5.9,Kirin,12.0
+756,OPPO,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,4230.0,15,8.0,2,4.4,2389.0,7490,6.2,Snapdragon,12.0
+757,Nokia,3 GB RAM,32 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,13,5.0,1,3.9,288.0,6699,5.71,Mediatek,12.0
+758,OPPO,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,3180.0,13,8.0,1,4.2,36.0,9490,5.7,Other,12.0
+759,Samsung,8 GB RAM,512 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3400.0,28,10.0,2,4.6,175.0,63400,6.1,Exynos,12.0
+760,Forme,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2500.0,13,,1,3.6,34.0,3999,5.0,Mediatek,12.0
+761,OPPO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,3400.0,16,25.0,1,4.5,380.0,19990,6.23,Mediatek,12.0
+762,Honor,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3600.0,16,8.0,2,3.9,169.0,26499,5.5,Kirin,12.0
+763,Samsung,8 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3400.0,28,10.0,2,4.6,175.0,57800,6.1,Exynos,12.0
+764,Nokia,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,16,,1,4.2,3457.0,8999,5.5,Snapdragon,12.0
+765,Samsung,6 GB RAM,128 GB ROM,,standard battery,5000.0,16,,1,4.3,26.0,15900,6.4,,12.0
+766,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,14473.0,15999,6.3,Snapdragon,
+767,Nokia,2 GB RAM,16 GB ROM,Expandable Upto 128,standard battery,2630.0,8,8.0,1,3.9,1301.0,5290,5.0,Mediatek,12.0
+768,Samsung,6 GB RAM,128 GB ROM,,standard battery,3500.0,32,,1,4.2,52.0,16489,6.3,,12.0
+769,XOLO,2 GB RAM,16 GB ROM,,lithium polymer battery,2500.0,8,5.0,1,3.8,798.0,4761,5.0,Spreadtrum,12.0
+770,Gionee,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3100.0,13,16.0,1,4.1,102.0,6799,5.2,Snapdragon,12.0
+771,Voto,2 GB RAM,16 GB ROM,,standard battery,3000.0,13,8.0,1,3.5,559.0,4199,5.0,Spreadtrum,12.0
+772,Karbonn,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,1750.0,5,5.0,1,3.5,619.0,3099,4.5,,12.0
+773,LG,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,2500.0,8,5.0,1,4.0,145.0,4999,5.0,Snapdragon,12.0
+774,Voto,2 GB RAM,32 GB ROM,,standard battery,3000.0,13,8.0,1,3.6,96.0,5124,5.0,Spreadtrum,12.0
+775,Vivo,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3260.0,13,5.0,1,4.3,197.0,12950,6.22,Mediatek,12.0
+776,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3200.0,13,16.0,1,4.3,1191.0,6490,6.0,Other,12.0
+777,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,6000.0,48,16.0,1,4.3,299.0,14399,6.4,Exynos,12.0
+778,Redmi,2 GB RAM,32 GB ROM,,standard battery,4000.0,12,,1,4.3,1036.0,7999,6.26,,12.0
+779,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.5,71691.0,10999,6.3,Snapdragon,
+780,vivo,6 GB RAM,64 GB ROM,,standard battery,5000.0,16,,1,4.1,33.0,12669,6.53,,12.0
+781,Yu,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,lithium ion battery,2500.0,13,5.0,1,3.8,3676.0,4799,5.0,Mediatek,12.0
+782,Yu,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,lithium ion battery,2500.0,13,5.0,1,3.8,3676.0,5999,5.0,Mediatek,12.0
+783,OPPO,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,standard battery,3180.0,13,8.0,1,4.2,36.0,7450,5.7,Other,12.0
+784,Karbonn,2 GB RAM,16 GB ROM,,standard battery,2500.0,8,,1,3.7,145.0,4249,5.45,,12.0
+785,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.3,10076.0,7499,6.22,Snapdragon,12.0
+786,Motorola,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,17,8.0,3,4.2,2151.0,9999,6.2,Mediatek,
+787,Gionee,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li polymer battery,3550.0,15,8.0,2,4.2,66.0,6999,6.09,Spreadtrum,12.0
+788,Lenovo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3760.0,18,8.0,2,4.1,129.0,7499,5.99,Snapdragon,12.0
+789,LG,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3200.0,13,2.0,1,4.6,75.0,42021,5.9,Snapdragon,12.0
+790,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.5,71691.0,10999,6.3,Snapdragon,
+791,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1950.0,5,0.0,1,3.8,96.0,6999,4.5,Mediatek,12.0
+792,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,3000.0,13,5.0,1,4.1,648.0,5990,5.7,Other,12.0
+793,Meizu,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3070.0,13,5.0,1,3.8,502.0,8999,5.2,Mediatek,12.0
+794,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,40406.0,13999,6.3,Snapdragon,
+795,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4045.0,21,25.0,2,4.5,40406.0,13999,6.3,Snapdragon,
+796,Ringme,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2800.0,5,5.0,1,4.3,0.0,5499,5.99,Other,3.0
+797,Ringme,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2800.0,5,5.0,1,4.3,0.0,5498,5.99,Other,3.0
+798,ITEL,1 GB RAM,16 GB ROM,,standard battery,5050.0,8,,1,3.1,2.0,3530,5.5,,6.0
+799,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,3100.0,28,10.0,2,4.5,95.0,59000,5.8,Exynos,12.0
+800,Panasonic,3 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,4000.0,13,8.0,1,3.8,1634.0,4990,5.2,Mediatek,12.0
+801,Asus,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,15,8.0,2,4.3,2577.0,8999,6.26,Snapdragon,12.0
+802,LG,1 GB RAM,8 GB ROM,,standard battery,2100.0,8,1.0,1,3.7,77.0,5499,4.7,,12.0
+803,Lenovo,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-polymer battery,4900.0,13,5.0,1,4.1,3277.0,15999,5.5,Snapdragon,12.0
+804,Samsung,12 GB RAM,128 GB ROM,Expandable Upto 1 TB,lithium-ion battery,5000.0,168,40.0,3,4.3,16.0,97999,6.9,Exynos,12.0
+805,Moto,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,4000.0,8,2.0,1,4.1,54684.0,6999,5.0,Mediatek,12.0
+806,XOLO,1 GB RAM,8 GB ROM,,li-ion battery,2350.0,5,5.0,1,3.9,1929.0,3999,5.0,Other,12.0
+807,XOLO,1 GB RAM,8 GB ROM,,li-ion battery,2350.0,5,5.0,1,3.9,1929.0,4099,5.0,Other,12.0
+808,XOLO,1 GB RAM,8 GB ROM,,li-ion battery,2350.0,5,5.0,1,3.9,1929.0,4099,5.0,Other,12.0
+809,Tecno,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3500.0,21,16.0,2,4.3,16.0,11500,6.2,,6.0
+810,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li polymer battery,3080.0,17,16.0,2,4.4,1867.0,8499,5.99,Snapdragon,12.0
+811,Lava,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-polymer battery,4120.0,8,5.0,1,3.9,7.0,5499,6.1,Unisoc,12.0
+812,Itel,2 GB RAM,16 GB ROM,,standard battery,2400.0,8,5.0,1,4.3,12.0,5090,5.45,,12.0
+813,Samsung,3 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,3300.0,13,8.0,1,4.3,55351.0,11200,5.5,Exynos,12.0
+814,Tecno,2 GB RAM,16 GB ROM,,standard battery,3050.0,13,,1,4.1,23.0,7999,5.45,,12.0
+815,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li polymer battery,4000.0,12,5.0,1,4.4,43588.0,8299,5.99,Snapdragon,12.0
+816,Redmi,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,li polymer battery,3000.0,8,5.0,1,4.3,13123.0,4999,5.0,Snapdragon,12.0
+817,Mobiistar,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,,1,4.1,79.0,3990,5.3,,12.0
+818,Panasonic,3 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,2500.0,13,5.0,1,3.9,251.0,6190,5.3,Other,12.0
+819,Karbonn,512 MB RAM,4 GB ROM,Expandable Upto 32 GB,standard battery,1600.0,8,,1,3.3,8.0,6999,5.0,,12.0
+820,LG,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,16,5.0,1,3.4,6.0,13999,5.5,,12.0
+821,Nokia,6 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3060.0,21,16.0,2,4.1,185.0,11990,5.8,Snapdragon,12.0
+822,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2000.0,5,2.0,1,3.6,172.0,3749,5.0,Other,12.0
+823,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,10,2.0,2,3.8,105.0,3998,5.0,,12.0
+824,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li polymer battery,4000.0,12,5.0,1,4.4,43588.0,7999,5.99,Snapdragon,12.0
+825,Vivo,6 GB RAM,64 GB ROM,,standard battery,5000.0,16,,1,4.1,33.0,11998,6.53,,
+826,XOLO,512 MB RAM,4 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,5,0.0,1,4.1,37.0,6935,4.5,,12.0
+827,OPPO,8 GB RAM,128 GB ROM,,standard battery,3500.0,16,,1,,,22999,6.4,,12.0
+828,Gome,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,3100.0,13,13.0,1,3.4,3.0,9998,5.99,,6.0
+829,Asus,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,13,8.0,1,4.1,17701.0,6499,5.45,Snapdragon,12.0
+830,Vivo,3 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,3360.0,13,5.0,1,4.3,415.0,10999,6.0,Snapdragon,12.0
+831,Samsung,4 GB RAM,64 GB ROM,,li-ion battery,4000.0,38,16.0,3,4.3,298.0,18900,6.4,Exynos,12.0
+832,Moto,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,li-polymer battery,3050.0,16,8.0,1,3.9,13343.0,9999,5.5,Mediatek,12.0
+833,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,,1,4.3,3666.0,6450,5.45,Other,12.0
+834,Lenovo,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,li-ion battery,2900.0,13,5.0,1,4.0,24533.0,7399,5.5,Mediatek,12.0
+835,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,15,8.0,2,4.3,12649.0,7999,6.26,Snapdragon,12.0
+836,Panasonic,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,8,5.0,1,3.5,23.0,3990,5.0,Snapdragon,12.0
+837,LG,4 GB RAM,128 GB ROM,Expandable Upto 2 TB,standard battery,3300.0,29,5.0,2,4.3,449.0,24999,6.0,Snapdragon,12.0
+838,Gome,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3500.0,31,,3,4.7,1.0,5999,5.99,,12.0
+839,Mobiistar,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,13.0,1,3.8,57.0,5399,5.45,,12.0
+840,Lenovo,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,li-ion battery,2900.0,13,5.0,1,4.0,24533.0,7399,5.5,Mediatek,12.0
+841,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,standard battery,4000.0,15,8.0,2,4.3,12649.0,7999,6.26,Snapdragon,12.0
+842,Panasonic,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,8,5.0,1,3.5,23.0,3990,5.0,Snapdragon,12.0
+843,LG,4 GB RAM,128 GB ROM,Expandable Upto 2 TB,standard battery,3300.0,29,5.0,2,4.3,449.0,24999,6.0,Snapdragon,12.0
+844,Gome,2 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,3500.0,31,,3,4.7,1.0,5999,5.99,,12.0
+845,Mobiistar,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,13.0,1,3.8,57.0,5399,5.45,,12.0
+846,Samsung,3 GB RAM,32 GB ROM,Expandable Upto 512 MB,standard battery,5000.0,18,8.0,2,4.3,147.0,10990,6.3,,12.0
+847,LYF,1 GB RAM,8 GB ROM,Expandable Upto 128 GB,standard battery,2000.0,8,2.0,1,3.5,274.0,3699,4.5,,12.0
+848,Samsung,1.5 GB RAM,8 GB ROM,Expandable Upto 128 GB,standard battery,2600.0,13,5.0,1,4.3,2290.0,7990,5.0,Other,12.0
+849,Lava,512 MB RAM,8 GB ROM,,li-ion battery,1750.0,5,0.0,1,3.5,107.0,3199,4.5,,12.0
+850,Tecno,2 GB RAM,16 GB ROM,,standard battery,3050.0,15,13.0,2,4.1,40.0,6089,5.5,,12.0
+851,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,3050.0,13,8.0,1,4.0,4013.0,7499,5.45,Mediatek,12.0
+852,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,3050.0,13,8.0,1,4.0,4013.0,7499,5.45,Mediatek,12.0
+853,Gionee,4 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3130.0,13,8.0,1,3.6,75.0,7499,5.5,Mediatek,12.0
+854,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,23,32.0,3,4.2,3923.0,9599,6.21,Mediatek,12.0
+855,Gionee,3 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,13,16.0,1,4.0,483.0,6450,5.2,Other,12.0
+856,Redmi,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,5.0,1,4.3,3666.0,5990,5.45,,12.0
+857,Lenovo,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,4050.0,26,16.0,3,4.1,367.0,11499,6.22,Other,12.0
+858,Nokia,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3500.0,61,20.0,3,4.1,339.0,16399,6.3,Snapdragon,12.0
+859,Nokia,6 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3500.0,61,20.0,3,4.2,611.0,16399,6.3,Snapdragon,12.0
+860,LYF,2 GB RAM,16 GB ROM,,li-polymer battery,2920.0,13,5.0,1,3.5,1.0,4999,5.0,Snapdragon,24.0
+861,Lava,2 GB RAM,32 GB ROM,,li-po battery,3200.0,15,5.0,2,3.8,10.0,6299,5.71,Mediatek,12.0
+862,Google,4 GB RAM,64 GB ROM,,standard battery,3700.0,14,8.0,1,4.5,229.0,34999,6.0,Snapdragon,
+863,XOLO,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,3000.0,8,5.0,1,4.1,189.0,4299,5.45,,12.0
+864,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.4,225.0,13999,6.26,Snapdragon,12.0
+865,Samsung,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion battery,3100.0,13,5.0,1,4.2,17752.0,10990,5.2,Snapdragon,12.0
+866,Nokia,3 GB RAM,32 GB ROM,,standard battery,2970.0,16,,1,4.0,21.0,7990,5.5,,12.0
+867,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,5020.0,63,16.0,4,4.2,107.0,12999,6.67,Snapdragon,12.0
+868,Lava,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-polymer battery,3000.0,8,2.0,1,3.7,36.0,6849,5.5,,12.0
+869,Gionee,4 GB RAM,64 GB ROM,,standard battery,3130.0,13,,1,3.6,75.0,7997,5.5,,12.0
+870,POCO,8 GB RAM,256 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,17,20.0,2,4.5,3102.0,22999,6.18,Snapdragon,12.0
+871,Samsung,3 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,3300.0,13,8.0,1,4.3,55351.0,11200,5.5,Exynos,12.0
+872,Samsung,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,18,8.0,2,4.3,343.0,10999,5.5,Exynos,12.0
+873,Samsung,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion battery,4000.0,24,8.0,2,4.6,274.0,73600,6.4,,12.0
+874,LYF,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,li-polymer battery,2300.0,13,5.0,1,3.7,514.0,4999,5.0,Mediatek,12.0
+875,Redmi,6 GB RAM,64 GB ROM,,li-polymer battery,4000.0,69,20.0,3,4.5,5085.0,21999,6.39,Snapdragon,12.0
+876,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,3000.0,17,5.0,2,4.4,40585.0,6800,5.45,Mediatek,12.0
+877,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,5,0.0,1,3.7,675.0,3449,5.0,Spreadtrum,12.0
+878,Samsung,512 MB RAM,4 GB ROM,Expandable Upto 128 GB,li-ion battery,1800.0,5,2.0,1,3.9,247.0,4988,4.3,,12.0
+879,Samsung,8 GB RAM,512 GB ROM,Expandable Upto 1 TB,lithium-ion battery,4500.0,65,32.0,3,4.5,2616.0,47999,6.7,Snapdragon,12.0
+880,Samsung,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion battery,3100.0,13,5.0,1,4.2,17752.0,10090,5.2,Snapdragon,12.0
+881,OPPO,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3200.0,13,16.0,1,4.3,1191.0,6490,6.0,Other,12.0
+882,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,10038.0,13990,6.3,Snapdragon,12.0
+883,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,10038.0,11490,6.3,Snapdragon,12.0
+884,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,10038.0,13990,6.3,Snapdragon,12.0
+885,Realme,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3500.0,18,16.0,2,4.5,44638.0,11490,6.3,Snapdragon,12.0
+886,Redmi,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,li polymer battery,3000.0,8,5.0,1,4.3,13123.0,4999,5.0,Snapdragon,12.0
+887,Moto,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,15,8.0,2,4.1,6383.0,7999,6.1,Mediatek,12.0
+888,Vivo,4 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,3260.0,18,16.0,2,4.4,2926.0,16990,6.3,Snapdragon,12.0
+889,Vivo,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,4030.0,15,8.0,2,4.4,714.0,12490,6.22,Mediatek,12.0
+890,Samsung,1.5 GB RAM,8 GB ROM,Expandable Upto 128 GB,li-ion battery,2600.0,8,5.0,1,4.3,27017.0,8192,5.0,Exynos,12.0
+891,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1800.0,5,2.0,1,3.8,1314.0,3199,4.5,Spreadtrum,12.0
+892,Micromax,3 GB RAM,16 GB ROM,,li-ion battery,2000.0,8,5.0,1,3.6,670.0,4399,5.0,Mediatek,12.0
+893,Micromax,1 GB RAM,16 GB ROM,Expandable Upto 32 GB,polymer battery,5000.0,5,5.0,1,3.9,360.0,6999,5.45,Other,12.0
+894,Asus,3 GB RAM,32 GB ROM,Expandable Upto 2 TB,polymer battery,5000.0,13,8.0,1,4.0,5158.0,14999,5.2,Mediatek,12.0
+895,Honor,4 GB RAM,64 GB ROM,,standard battery,3000.0,12,,1,4.3,958.0,10490,5.2,,12.0
+896,Micromax,1 GB RAM,4 GB ROM,Expandable Upto 32 GB,standard battery,2000.0,8,2.0,1,3.9,747.0,9005,5.0,Other,12.0
+897,Realme,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4300.0,86,16.0,4,4.4,3991.0,17999,6.6,Snapdragon,
+898,Honor,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,13.0,2,4.3,12119.0,16999,5.65,Kirin,12.0
+899,Vivo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-ion battery,3225.0,16,24.0,1,4.4,2706.0,22221,5.99,Snapdragon,12.0
+900,Ziox,512 MB RAM,4 GB ROM,Expandable Upto 32 GB,standard battery,1600.0,2,0.0,1,3.1,2.0,2499,4.0,,12.0
+901,Nokia,4 GB RAM,64 GB ROM,Expandable Upto 400 GB,standard battery,3500.0,25,20.0,2,4.3,1372.0,14999,6.18,Snapdragon,12.0
+902,OPPO,3 GB RAM,64 GB ROM,,standard battery,5000.0,24,8.0,4,4.4,200.0,13980,6.5,Snapdragon,12.0
+903,Celkon,2 GB RAM,16 GB ROM,,standard battery,2500.0,8,,1,3.6,14.0,6495,5.0,,12.0
+904,Gome,2 GB RAM,16 GB ROM,,standard battery,3000.0,13,,1,4.1,4.0,3999,5.45,,12.0
+905,Gome,2 GB RAM,16 GB ROM,,standard battery,3000.0,13,,1,4.1,4.0,3650,5.45,,12.0
+906,Micromax,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,standard battery,2730.0,13,13.0,1,3.7,186.0,5799,5.2,Snapdragon,12.0
+907,Asus,4 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,17,13.0,2,4.3,10998.0,11999,6.26,Snapdragon,12.0
+908,Mobiistar,2 GB RAM,16 GB ROM,,standard battery,3000.0,8,8.0,1,4.0,52.0,4598,5.34,,12.0
+909,Moto,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,8.0,2,4.1,56.0,14999,5.9,Snapdragon,12.0
+910,Redmi,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,13.0,2,4.4,25217.0,12999,6.3,Snapdragon,
+911,Vivo,4 GB RAM,128 GB ROM,Expandable Upto 256 GB,lithium polymer battery,4500.0,26,32.0,3,4.5,732.0,18990,6.38,Mediatek,12.0
+912,Blackbear,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2400.0,12,5.0,2,3.2,7.0,3749,5.0,,12.0
+913,Blackbear,1 GB RAM,8 GB ROM,,standard battery,2400.0,8,,1,3.2,7.0,3749,5.0,,12.0
+914,Lenovo,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,4000.0,13,8.0,1,4.1,355.0,11499,5.2,Mediatek,12.0
+915,Samsung,1 GB RAM,8 GB ROM,Expandable Upto 128 GB,standard battery,2050.0,5,2.0,1,4.0,261.0,5896,4.5,Other,12.0
+916,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,12,5.0,1,4.3,27670.0,6699,5.45,Snapdragon,24.0
+917,Panasonic,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,lithium ion battery,2200.0,8,5.0,1,3.9,293.0,3999,5.0,Mediatek,12.0
+918,Itel,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,standard battery,2050.0,2,0.0,1,4.1,8.0,3399,5.0,,12.0
+919,Redmi,2 GB RAM,32 GB ROM,,standard battery,4000.0,12,,1,4.3,1036.0,7078,6.26,,12.0
+920,Redmi,2 GB RAM,32 GB ROM,,standard battery,4000.0,12,,1,4.3,1036.0,7995,6.26,,12.0
+921,Realme,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-ion battery,4230.0,15,8.0,2,4.5,49953.0,8979,6.2,Snapdragon,12.0
+922,Honor,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,6766.0,11599,6.21,Kirin,12.0
+923,Honor,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,lithium polymer battery,3400.0,15,24.0,2,4.4,2808.0,13999,6.21,Kirin,12.0
+924,Honor,6 GB RAM,256 GB ROM,Expandable Upto 512 GB,li-polymer battery,4000.0,58,16.0,3,3.9,884.0,17999,6.59,Kirin,12.0
+925,Honor,4 GB RAM,64 GB ROM,Expandable Upto 128 GB,standard battery,3340.0,18,13.0,2,4.3,10408.0,10250,5.9,Kirin,12.0
+926,InFocus,3 GB RAM,16 GB ROM,Expandable Upto 64 GB,standard battery,2900.0,13,8.0,1,3.7,41.0,4889,5.5,Other,12.0
+927,Zen,1 GB RAM,8 GB ROM,,standard battery,2900.0,5,,1,3.3,33.0,3739,5.5,,12.0
+928,Redmi,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,4000.0,14,32.0,2,4.4,225.0,10465,6.26,Snapdragon,12.0
+929,Gome,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,standard battery,3100.0,13,13.0,1,3.4,3.0,9988,5.99,,6.0
+930,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,12,5.0,1,4.3,27670.0,6699,5.45,Snapdragon,24.0
+931,Honor,4 GB RAM,64 GB ROM,,standard battery,3750.0,22,16.0,2,4.4,734.0,11599,6.5,Kirin,12.0
+932,Honor,4 GB RAM,64 GB ROM,,standard battery,3750.0,22,16.0,2,4.4,734.0,11599,6.5,Kirin,12.0
+933,Tecno,2 GB RAM,32 MB ROM,,standard battery,5000.0,13,,1,4.1,1.0,9490,6.6,,12.0
+934,Moto,4 GB RAM,64 GB ROM,Expandable Upto 512 GB,standard battery,3000.0,15,8.0,2,4.1,6383.0,7999,6.1,Mediatek,12.0
+935,Lava,2 GB RAM,32 GB ROM,Expandable Upto 32 GB,li-polymer battery,2500.0,8,5.0,1,3.8,47.0,6379,5.0,Other,12.0
+936,Lava,2 GB RAM,32 GB ROM,Expandable Upto 32 GB,li-polymer battery,2500.0,8,5.0,1,3.8,47.0,6379,5.0,Other,12.0
+937,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,53,13.0,2,4.4,27260.0,9999,6.3,Snapdragon,
+938,Panasonic,1 GB RAM,16 GB ROM,Expandable Upto 64 GB,lithium polymer battery,2300.0,5,5.0,1,4.0,1269.0,4499,5.34,Other,12.0
+939,OnePlus,12 GB RAM,256 GB ROM,,standard battery,4510.0,61,16.0,3,,,59990,6.78,Snapdragon,12.0
+940,OnePlus,8 GB RAM,128 GB ROM,,standard battery,4510.0,61,16.0,3,,,54999,6.78,Snapdragon,12.0
+941,Zen,1 GB RAM,8 GB ROM,,standard battery,1750.0,2,,1,3.6,103.0,3099,4.0,,12.0
+942,Samsung,3 GB RAM,32 GB ROM,,li-ion battery,3300.0,13,13.0,1,4.3,243.0,11980,5.5,Exynos,12.0
+943,Zen,2 GB RAM,16 GB ROM,,standard battery,2100.0,5,,1,3.8,17.0,3199,5.0,,12.0
+944,POCO,6 GB RAM,128 GB ROM,Expandable Upto 512 GB,lithium-ion polymer battery,4500.0,76,20.0,4,4.5,736.0,18499,6.67,Snapdragon,12.0
+945,Samsung,1.5 GB RAM,8 GB ROM,Expandable Upto 128 GB,li-ion battery,3000.0,13,5.0,1,4.2,25550.0,7990,5.5,Snapdragon,12.0
+946,Lava,3 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,13.0,1,4.5,14.0,7999,5.7,Other,12.0
+947,Samsung,1 GB RAM,16 GB ROM,Expandable Upto 256 GB,lithium-ion battery,2600.0,5,5.0,1,4.2,259.0,5280,5.0,Exynos,12.0
+948,Tecno,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,3500.0,21,16.0,2,3.7,8.0,10999,6.2,,6.0
+949,Vivo,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-ion battery,3260.0,13,5.0,1,4.4,336.0,7890,6.22,Mediatek,12.0
+950,Gionee,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,2300.0,8,5.0,1,3.7,201.0,9075,5.0,,12.0
+951,Lava,256 MB RAM,512 MB ROM,Expandable Upto 32 GB,li-ion battery,1400.0,2,0.0,1,3.2,252.0,1999,4.0,Spreadtrum,12.0
+952,Lava,256 MB RAM,512 MB ROM,Expandable Upto 32 GB,li-ion battery,1400.0,2,0.0,1,3.2,252.0,1999,4.0,Spreadtrum,12.0
+953,Samsung,512 MB RAM,4 GB ROM,Expandable Upto 128 GB,li-ion battery,1800.0,5,2.0,1,3.9,247.0,4988,4.3,,12.0
+954,Lava,3 GB RAM,32 GB ROM,,li-po battery,3500.0,15,8.0,2,4.2,12.0,8499,6.22,Mediatek,12.0
+955,XOLO,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery battery,3260.0,18,16.0,2,4.0,13.0,9199,6.22,Mediatek,
+956,XOLO,6 GB RAM,128 GB ROM,Expandable Upto 256 GB,li-polymer battery battery,3260.0,18,16.0,2,4.2,16.0,11199,6.22,Mediatek,
+957,Moto,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3000.0,15,8.0,2,4.1,56.0,14999,5.9,Snapdragon,12.0
+958,Karbonn,2 GB RAM,16 GB ROM,Expandable Upto 32 GB,standard battery,2300.0,5,,1,4.1,234.0,3699,5.0,,12.0
+959,OPPO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3600.0,18,25.0,2,4.3,107.0,17989,6.41,Snapdragon,
+960,Lenovo,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,3760.0,18,8.0,2,4.1,129.0,7499,5.99,Snapdragon,12.0
+961,Lava,2 GB RAM,16 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,13.0,1,4.4,33.0,5999,5.7,Other,12.0
+962,Lava,512 MB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1750.0,5,0.0,1,3.6,192.0,4149,4.0,,12.0
+963,Infinix,3 GB RAM,32 GB ROM,Expandable Upto 256 GB,standard battery,4000.0,23,32.0,3,4.2,3923.0,9599,6.21,Mediatek,12.0
+964,Redmi,2 GB RAM,32 GB ROM,Expandable Upto 128 GB,standard battery,3000.0,13,,1,4.3,3666.0,5742,5.45,Other,12.0
+965,Redmi,3 GB RAM,32 GB ROM,Expandable Upto 512 GB,standard battery,5000.0,12,8.0,1,4.3,10076.0,7499,6.22,Snapdragon,12.0
+966,Panasonic,3 GB RAM,32 GB ROM,Expandable Upto 32 GB,standard battery,2350.0,13,5.0,1,3.7,1332.0,6190,5.0,,12.0
+967,Samsung,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,lithium-ion battery,3500.0,21,16.0,2,4.4,8026.0,19990,6.0,Snapdragon,12.0
+968,Micromax,1 GB RAM,16 GB ROM,,standard battery,5000.0,5,,1,3.9,114.0,4899,5.2,,12.0
+969,Lava,512 MB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,1750.0,5,0.0,1,3.6,163.0,2999,4.5,,12.0
+970,Gionee,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4550.0,18,20.0,2,4.1,710.0,16499,6.0,Mediatek,12.0
+971,Samsung,6 GB RAM,128 GB ROM,,li-ion battery,4000.0,61,32.0,3,4.3,915.0,26900,6.4,Exynos,12.0
+972,Redmi,3 GB RAM,64 GB ROM,Expandable Upto 256 GB,lithium-polymer battery,3000.0,17,5.0,2,4.4,40585.0,7290,5.45,Mediatek,12.0
+973,Google,4 GB RAM,64 GB ROM,,standard battery,3700.0,14,8.0,1,4.5,229.0,34999,6.0,Snapdragon,
+974,OPPO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,16.0,2,4.4,11506.0,20990,6.5,Mediatek,
+975,OPPO,6 GB RAM,64 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,53,16.0,2,4.4,11506.0,24990,6.5,Mediatek,
+976,Asus,6 GB RAM,64 GB ROM,Expandable Upto 2 TB,standard battery,5000.0,17,13.0,2,4.3,1955.0,13999,6.26,Snapdragon,12.0
+977,Redmi,2 GB RAM,16 GB ROM,Expandable Upto 256 GB,li-polymer battery,4000.0,12,5.0,1,4.3,27670.0,6499,5.45,Snapdragon,24.0
+978,Gionee,1 GB RAM,16 GB ROM,Expandable Upto 128 GB,li-ion polymer battery,2300.0,8,5.0,1,3.7,201.0,4290,5.0,Other,12.0
+979,Micromax,1 GB RAM,8 GB ROM,Expandable Upto 32 MB,standard battery,2000.0,5,2.0,1,3.8,105.0,3590,5.0,,12.0
+980,Nextbit,3 GB RAM,32 GB ROM,,li-ion battery,2680.0,13,5.0,1,4.0,516.0,19999,5.2,Snapdragon,12.0
+981,Gionee,4 GB RAM,64 GB ROM,Expandable Upto 256 GB,standard battery,4550.0,18,20.0,2,4.1,710.0,10499,6.0,Mediatek,12.0
+982,XOLO,1 GB RAM,8 GB ROM,Expandable Upto 32 GB,li-ion battery,2100.0,8,2.0,1,3.8,81.0,8990,5.0,Mediatek,12.0
+983,Samsung,4 GB RAM,256 GB ROM,Expandable Upto 400 GB,standard battery,3000.0,12,8.0,1,4.4,2331.0,65900,5.8,Exynos,12.0
